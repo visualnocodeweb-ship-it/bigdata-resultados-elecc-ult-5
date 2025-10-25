@@ -83,32 +83,88 @@ document.getElementById('load-aggregated-data-btn').addEventListener('click', ()
                 accordionItem.appendChild(accordionCollapse);
                 accordionContainer.appendChild(accordionItem);
 
-                const parties = [...new Set(Object.values(years_data).flatMap(year => Object.keys(year)))];
-
-                const datasets = parties.map(party => {
-                    return {
-                        label: party,
-                        data: all_years.map(year => (years_data[year] && years_data[year][party]) || 0),
-                        borderWidth: 1
-                    }
-                });
-
-                new Chart(canvas, {
-                    type: 'bar',
-                    data: {
-                        labels: all_years,
-                        datasets: datasets
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        scales: {
-                            y: {
-                                beginAtZero: true
+                if (mesa_id === '0') {
+                    const party_totals = {};
+                    for (const year in years_data) {
+                        for (const party in years_data[year]) {
+                            if (party_totals[party]) {
+                                party_totals[party] += years_data[year][party];
+                            } else {
+                                party_totals[party] = years_data[year][party];
                             }
                         }
                     }
-                });
+
+                    new Chart(canvas, {
+                        type: 'bar',
+                        data: {
+                            labels: Object.keys(party_totals),
+                            datasets: [{
+                                label: 'Total Votos',
+                                data: Object.values(party_totals),
+                                backgroundColor: [
+                                    'rgba(255, 99, 132, 0.2)',
+                                    'rgba(54, 162, 235, 0.2)',
+                                    'rgba(255, 206, 86, 0.2)',
+                                    'rgba(75, 192, 192, 0.2)',
+                                    'rgba(153, 102, 255, 0.2)',
+                                    'rgba(255, 159, 64, 0.2)',
+                                    'rgba(255, 99, 132, 0.2)',
+                                    'rgba(54, 162, 235, 0.2)',
+                                    'rgba(255, 206, 86, 0.2)',
+                                ],
+                                borderColor: [
+                                    'rgba(255, 99, 132, 1)',
+                                    'rgba(54, 162, 235, 1)',
+                                    'rgba(255, 206, 86, 1)',
+                                    'rgba(75, 192, 192, 1)',
+                                    'rgba(153, 102, 255, 1)',
+                                    'rgba(255, 159, 64, 1)',
+                                    'rgba(255, 99, 132, 1)',
+                                    'rgba(54, 162, 235, 1)',
+                                    'rgba(255, 206, 86, 1)',
+                                ],
+                                borderWidth: 1
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                y: {
+                                    beginAtZero: true
+                                }
+                            }
+                        }
+                    });
+                } else {
+                    const parties = [...new Set(Object.values(years_data).flatMap(year => Object.keys(year)))];
+
+                    const datasets = parties.map(party => {
+                        return {
+                            label: party,
+                            data: all_years.map(year => (years_data[year] && years_data[year][party]) || 0),
+                            borderWidth: 1
+                        }
+                    });
+
+                    new Chart(canvas, {
+                        type: 'bar',
+                        data: {
+                            labels: all_years,
+                            datasets: datasets
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                y: {
+                                    beginAtZero: true
+                                }
+                            }
+                        }
+                    });
+                }
             }
             document.getElementById('back-btn-aggregated').style.display = 'block';
         });
