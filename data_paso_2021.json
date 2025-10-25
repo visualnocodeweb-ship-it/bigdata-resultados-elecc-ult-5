@@ -1,0 +1,942 @@
+{
+    "1467": {
+        "CAMBIA NEUQUAN": 91,
+        "COALICION CIVICA - ARI": 13,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE DE TODOS": 23,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 7,
+        "MPN": 55,
+        "SOCIALISTA": 10
+    },
+    "1468": {
+        "CAMBIA NEUQUAN": 95,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 4,
+        "MPN": 50,
+        "SOCIALISTA": 5
+    },
+    "1469": {
+        "CAMBIA NEUQUAN": 73,
+        "COALICION CIVICA - ARI": 7,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 51,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 3,
+        "MPN": 49,
+        "SOCIALISTA": 12
+    },
+    "1470": {
+        "CAMBIA NEUQUAN": 80,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 38,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 11,
+        "MPN": 48,
+        "SOCIALISTA": 8
+    },
+    "1471": {
+        "CAMBIA NEUQUAN": 86,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 23,
+        "FRENTE DE TODOS": 26,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 8,
+        "MPN": 40,
+        "SOCIALISTA": 6
+    },
+    "1472": {
+        "CAMBIA NEUQUAN": 75,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 36,
+        "MOVIMIENTO AL SOCIALISMO": 7,
+        "LIBRES DEL SUR": 9,
+        "MPN": 53,
+        "SOCIALISTA": 5
+    },
+    "1473": {
+        "CAMBIA NEUQUAN": 85,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 31,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 10,
+        "MPN": 63,
+        "SOCIALISTA": 5
+    },
+    "1474": {
+        "CAMBIA NEUQUAN": 88,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 8,
+        "MPN": 55,
+        "SOCIALISTA": 7
+    },
+    "1475": {
+        "CAMBIA NEUQUAN": 64,
+        "COALICION CIVICA - ARI": 20,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 48,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 7,
+        "MPN": 48,
+        "SOCIALISTA": 6
+    },
+    "1476": {
+        "CAMBIA NEUQUAN": 61,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 12,
+        "MPN": 62,
+        "SOCIALISTA": 13
+    },
+    "1477": {
+        "CAMBIA NEUQUAN": 101,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 8,
+        "MPN": 36,
+        "SOCIALISTA": 6
+    },
+    "1478": {
+        "CAMBIA NEUQUAN": 55,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 11,
+        "MPN": 77,
+        "SOCIALISTA": 8
+    },
+    "1479": {
+        "CAMBIA NEUQUAN": 73,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 23,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 11,
+        "MPN": 50,
+        "SOCIALISTA": 5
+    },
+    "1480": {
+        "CAMBIA NEUQUAN": 73,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 45,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 3,
+        "MPN": 46,
+        "SOCIALISTA": 10
+    },
+    "1481": {
+        "CAMBIA NEUQUAN": 82,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE DE TODOS": 26,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 14,
+        "MPN": 46,
+        "SOCIALISTA": 7
+    },
+    "1482": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE DE TODOS": 42,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 5,
+        "MPN": 39,
+        "SOCIALISTA": 8
+    },
+    "1483": {
+        "CAMBIA NEUQUAN": 81,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE DE TODOS": 49,
+        "MOVIMIENTO AL SOCIALISMO": 7,
+        "LIBRES DEL SUR": 10,
+        "MPN": 57,
+        "SOCIALISTA": 4
+    },
+    "1484": {
+        "CAMBIA NEUQUAN": 77,
+        "COALICION CIVICA - ARI": 13,
+        "FRENTE DE IZQUIERDA": 8,
+        "FRENTE DE TODOS": 30,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 7,
+        "MPN": 52,
+        "SOCIALISTA": 9
+    },
+    "1485": {
+        "CAMBIA NEUQUAN": 86,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 7,
+        "MPN": 62,
+        "SOCIALISTA": 3
+    },
+    "1486": {
+        "CAMBIA NEUQUAN": 78,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE DE TODOS": 32,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 9,
+        "MPN": 51,
+        "SOCIALISTA": 50
+    },
+    "1487": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 25,
+        "FRENTE DE TODOS": 24,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 7,
+        "MPN": 69,
+        "SOCIALISTA": 4
+    },
+    "1488": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 4,
+        "MPN": 61,
+        "SOCIALISTA": 11
+    },
+    "1489": {
+        "CAMBIA NEUQUAN": 84,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 7,
+        "MPN": 51,
+        "SOCIALISTA": 6
+    },
+    "1490": {
+        "CAMBIA NEUQUAN": 69,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 8,
+        "MPN": 54,
+        "SOCIALISTA": 2
+    },
+    "1491": {
+        "CAMBIA NEUQUAN": 98,
+        "COALICION CIVICA - ARI": 15,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 6,
+        "MPN": 43,
+        "SOCIALISTA": 4
+    },
+    "1492": {
+        "CAMBIA NEUQUAN": 68,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 53,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 6,
+        "MPN": 60,
+        "SOCIALISTA": 6
+    },
+    "1493": {
+        "CAMBIA NEUQUAN": 62,
+        "COALICION CIVICA - ARI": 15,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE DE TODOS": 36,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 10,
+        "MPN": 57,
+        "SOCIALISTA": 6
+    },
+    "1494": {
+        "CAMBIA NEUQUAN": 63,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 10,
+        "MPN": 66,
+        "SOCIALISTA": 11
+    },
+    "1495": {
+        "CAMBIA NEUQUAN": 81,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 41,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 6,
+        "MPN": 50,
+        "SOCIALISTA": 3
+    },
+    "1497": {
+        "CAMBIA NEUQUAN": 68,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 10,
+        "MPN": 55,
+        "SOCIALISTA": 5
+    },
+    "1498": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 39,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 8,
+        "MPN": 63,
+        "SOCIALISTA": 8
+    },
+    "1499": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE DE TODOS": 26,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 11,
+        "MPN": 46,
+        "SOCIALISTA": 8
+    },
+    "1500": {
+        "CAMBIA NEUQUAN": 83,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 9,
+        "FRENTE DE TODOS": 33,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 10,
+        "MPN": 54,
+        "SOCIALISTA": 8
+    },
+    "1501": {
+        "CAMBIA NEUQUAN": 87,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 9,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 5,
+        "MPN": 45,
+        "SOCIALISTA": 5
+    },
+    "1502": {
+        "CAMBIA NEUQUAN": 96,
+        "COALICION CIVICA - ARI": 13,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 2,
+        "MPN": 43,
+        "SOCIALISTA": 2
+    },
+    "1503": {
+        "CAMBIA NEUQUAN": 68,
+        "COALICION CIVICA - ARI": 16,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 8,
+        "MPN": 52,
+        "SOCIALISTA": 7
+    },
+    "1504": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 7,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 36,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 7,
+        "MPN": 63,
+        "SOCIALISTA": 6
+    },
+    "1506": {
+        "CAMBIA NEUQUAN": 79,
+        "COALICION CIVICA - ARI": 7,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 31,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 2,
+        "MPN": 65,
+        "SOCIALISTA": 8
+    },
+    "1507": {
+        "CAMBIA NEUQUAN": 78,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 30,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 9,
+        "MPN": 69,
+        "SOCIALISTA": 4
+    },
+    "1508": {
+        "CAMBIA NEUQUAN": 72,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 8,
+        "MPN": 63,
+        "SOCIALISTA": 2
+    },
+    "1509": {
+        "CAMBIA NEUQUAN": 82,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 7,
+        "MPN": 53,
+        "SOCIALISTA": 9
+    },
+    "1510": {
+        "CAMBIA NEUQUAN": 81,
+        "COALICION CIVICA - ARI": 13,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 39,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 9,
+        "MPN": 65,
+        "SOCIALISTA": 9
+    },
+    "1511": {
+        "CAMBIA NEUQUAN": 75,
+        "COALICION CIVICA - ARI": 13,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE DE TODOS": 15,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 9,
+        "MPN": 63,
+        "SOCIALISTA": 7
+    },
+    "1512": {
+        "CAMBIA NEUQUAN": 88,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 5,
+        "MPN": 73,
+        "SOCIALISTA": 7
+    },
+    "1513": {
+        "CAMBIA NEUQUAN": 65,
+        "COALICION CIVICA - ARI": 17,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 28,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 10,
+        "MPN": 70,
+        "SOCIALISTA": 4
+    },
+    "1514": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 6,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 46,
+        "MOVIMIENTO AL SOCIALISMO": 7,
+        "LIBRES DEL SUR": 12,
+        "MPN": 65,
+        "SOCIALISTA": 4
+    },
+    "1515": {
+        "CAMBIA NEUQUAN": 65,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE DE TODOS": 31,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 12,
+        "MPN": 89,
+        "SOCIALISTA": 4
+    },
+    "1516": {
+        "CAMBIA NEUQUAN": 79,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 29,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 13,
+        "MPN": 60,
+        "SOCIALISTA": 7
+    },
+    "1517": {
+        "CAMBIA NEUQUAN": 60,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 25,
+        "FRENTE DE TODOS": 49,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 8,
+        "MPN": 55,
+        "SOCIALISTA": 12
+    },
+    "1518": {
+        "CAMBIA NEUQUAN": 81,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 5,
+        "MPN": 57,
+        "SOCIALISTA": 5
+    },
+    "1519": {
+        "CAMBIA NEUQUAN": 8,
+        "COALICION CIVICA - ARI": 6,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 45,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 8,
+        "MPN": 59,
+        "SOCIALISTA": 7
+    },
+    "1520": {
+        "CAMBIA NEUQUAN": 49,
+        "COALICION CIVICA - ARI": 7,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 36,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 12,
+        "MPN": 82,
+        "SOCIALISTA": 10
+    },
+    "1521": {
+        "CAMBIA NEUQUAN": 89,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE DE TODOS": 39,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 4,
+        "MPN": 65,
+        "SOCIALISTA": 3
+    },
+    "1522": {
+        "CAMBIA NEUQUAN": 61,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 14,
+        "MPN": 79,
+        "SOCIALISTA": 10
+    },
+    "1523": {
+        "CAMBIA NEUQUAN": 74,
+        "COALICION CIVICA - ARI": 16,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 10,
+        "MPN": 63,
+        "SOCIALISTA": 8
+    },
+    "1524": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 15,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 4,
+        "MPN": 59,
+        "SOCIALISTA": 5
+    },
+    "1525": {
+        "CAMBIA NEUQUAN": 84,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 33,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 12,
+        "MPN": 60,
+        "SOCIALISTA": 6
+    },
+    "1526": {
+        "CAMBIA NEUQUAN": 71,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 9,
+        "MPN": 60,
+        "SOCIALISTA": 8
+    },
+    "1527": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 4,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 38,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 8,
+        "MPN": 62,
+        "SOCIALISTA": 5
+    },
+    "1528": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 19,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 28,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 8,
+        "MPN": 73,
+        "SOCIALISTA": 9
+    },
+    "1529": {
+        "CAMBIA NEUQUAN": 75,
+        "COALICION CIVICA - ARI": 15,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 27,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 4,
+        "MPN": 72,
+        "SOCIALISTA": 7
+    },
+    "1530": {
+        "CAMBIA NEUQUAN": 59,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 48,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 16,
+        "MPN": 68,
+        "SOCIALISTA": 10
+    },
+    "1531": {
+        "CAMBIA NEUQUAN": 79,
+        "COALICION CIVICA - ARI": 23,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 10,
+        "MPN": 47,
+        "SOCIALISTA": 9
+    },
+    "1532": {
+        "CAMBIA NEUQUAN": 87,
+        "COALICION CIVICA - ARI": 5,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 42,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 8,
+        "MPN": 58,
+        "SOCIALISTA": 5
+    },
+    "1533": {
+        "CAMBIA NEUQUAN": 67,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 4,
+        "MPN": 71,
+        "SOCIALISTA": 7
+    },
+    "1534": {
+        "CAMBIA NEUQUAN": 73,
+        "COALICION CIVICA - ARI": 20,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE DE TODOS": 44,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 12,
+        "MPN": 60,
+        "SOCIALISTA": 2
+    },
+    "1535": {
+        "CAMBIA NEUQUAN": 71,
+        "COALICION CIVICA - ARI": 6,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 33,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 12,
+        "MPN": 77,
+        "SOCIALISTA": 5
+    },
+    "1536": {
+        "CAMBIA NEUQUAN": 63,
+        "COALICION CIVICA - ARI": 21,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE DE TODOS": 32,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 12,
+        "MPN": 62,
+        "SOCIALISTA": 7
+    },
+    "1537": {
+        "CAMBIA NEUQUAN": 67,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE DE TODOS": 37,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 11,
+        "MPN": 76,
+        "SOCIALISTA": 2
+    },
+    "1538": {
+        "CAMBIA NEUQUAN": 47,
+        "COALICION CIVICA - ARI": 14,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 11,
+        "MPN": 80,
+        "SOCIALISTA": 5
+    },
+    "1539": {
+        "CAMBIA NEUQUAN": 70,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 7,
+        "MPN": 71,
+        "SOCIALISTA": 8
+    },
+    "1540": {
+        "CAMBIA NEUQUAN": 80,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 11,
+        "MPN": 52,
+        "SOCIALISTA": 5
+    },
+    "1541": {
+        "CAMBIA NEUQUAN": 65,
+        "COALICION CIVICA - ARI": 3,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 44,
+        "MOVIMIENTO AL SOCIALISMO": 6,
+        "LIBRES DEL SUR": 8,
+        "MPN": 58,
+        "SOCIALISTA": 6
+    },
+    "1542": {
+        "CAMBIA NEUQUAN": 68,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE DE TODOS": 35,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 5,
+        "MPN": 62,
+        "SOCIALISTA": 13
+    },
+    "1543": {
+        "CAMBIA NEUQUAN": 69,
+        "COALICION CIVICA - ARI": 9,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 36,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 12,
+        "MPN": 57,
+        "SOCIALISTA": 8
+    },
+    "1544": {
+        "CAMBIA NEUQUAN": 87,
+        "COALICION CIVICA - ARI": 21,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 25,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 5,
+        "MPN": 52,
+        "SOCIALISTA": 12
+    },
+    "1545": {
+        "CAMBIA NEUQUAN": 64,
+        "COALICION CIVICA - ARI": 10,
+        "FRENTE DE IZQUIERDA": 26,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 16,
+        "MPN": 72,
+        "SOCIALISTA": 7
+    },
+    "1546": {
+        "CAMBIA NEUQUAN": 83,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE DE TODOS": 30,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 10,
+        "MPN": 56,
+        "SOCIALISTA": 6
+    },
+    "1547": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 40,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 6,
+        "MPN": 71,
+        "SOCIALISTA": 6
+    },
+    "1548": {
+        "CAMBIA NEUQUAN": 91,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE DE TODOS": 29,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 13,
+        "MPN": 54,
+        "SOCIALISTA": 5
+    },
+    "1549": {
+        "CAMBIA NEUQUAN": 83,
+        "COALICION CIVICA - ARI": 16,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE DE TODOS": 33,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 8,
+        "MPN": 53,
+        "SOCIALISTA": 10
+    },
+    "1550": {
+        "CAMBIA NEUQUAN": 56,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE DE TODOS": 45,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 12,
+        "MPN": 69,
+        "SOCIALISTA": 3
+    },
+    "1551": {
+        "CAMBIA NEUQUAN": 60,
+        "COALICION CIVICA - ARI": 6,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE DE TODOS": 45,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 18,
+        "MPN": 75,
+        "SOCIALISTA": 4
+    },
+    "1552": {
+        "CAMBIA NEUQUAN": 76,
+        "COALICION CIVICA - ARI": 12,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 34,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 7,
+        "MPN": 59,
+        "SOCIALISTA": 3
+    },
+    "1553": {
+        "CAMBIA NEUQUAN": 86,
+        "COALICION CIVICA - ARI": 19,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE DE TODOS": 31,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 10,
+        "MPN": 59,
+        "SOCIALISTA": 5
+    },
+    "1554": {
+        "CAMBIA NEUQUAN": 49,
+        "COALICION CIVICA - ARI": 11,
+        "FRENTE DE IZQUIERDA": 7,
+        "FRENTE DE TODOS": 26,
+        "MOVIMIENTO AL SOCIALISMO": 3,
+        "LIBRES DEL SUR": 4,
+        "MPN": 25,
+        "SOCIALISTA": 5
+    },
+    "1555": {
+        "CAMBIA NEUQUAN": 57,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 6,
+        "FRENTE DE TODOS": 19,
+        "MOVIMIENTO AL SOCIALISMO": 2,
+        "LIBRES DEL SUR": 1,
+        "MPN": 31,
+        "SOCIALISTA": 1
+    },
+    "1556": {
+        "CAMBIA NEUQUAN": 29,
+        "COALICION CIVICA - ARI": 0,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE DE TODOS": 58,
+        "MOVIMIENTO AL SOCIALISMO": 4,
+        "LIBRES DEL SUR": 11,
+        "MPN": 43,
+        "SOCIALISTA": 1
+    },
+    "1557": {
+        "CAMBIA NEUQUAN": 2,
+        "COALICION CIVICA - ARI": 1,
+        "FRENTE DE IZQUIERDA": 3,
+        "FRENTE DE TODOS": 1,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 0,
+        "MPN": 1,
+        "SOCIALISTA": 0
+    },
+    "1558": {
+        "CAMBIA NEUQUAN": 23,
+        "COALICION CIVICA - ARI": 7,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE DE TODOS": 30,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 7,
+        "MPN": 43,
+        "SOCIALISTA": 7
+    },
+    "1559": {
+        "CAMBIA NEUQUAN": 15,
+        "COALICION CIVICA - ARI": 4,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE DE TODOS": 46,
+        "MOVIMIENTO AL SOCIALISMO": 5,
+        "LIBRES DEL SUR": 11,
+        "MPN": 53,
+        "SOCIALISTA": 6
+    },
+    "1560": {
+        "CAMBIA NEUQUAN": 19,
+        "COALICION CIVICA - ARI": 0,
+        "FRENTE DE IZQUIERDA": 1,
+        "FRENTE DE TODOS": 6,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 0,
+        "MPN": 4,
+        "SOCIALISTA": 0
+    },
+    "1561": {
+        "CAMBIA NEUQUAN": 73,
+        "COALICION CIVICA - ARI": 8,
+        "FRENTE DE IZQUIERDA": 9,
+        "FRENTE DE TODOS": 21,
+        "MOVIMIENTO AL SOCIALISMO": 1,
+        "LIBRES DEL SUR": 1,
+        "MPN": 40,
+        "SOCIALISTA": 0
+    },
+    "1562": {
+        "CAMBIA NEUQUAN": 23,
+        "COALICION CIVICA - ARI": 5,
+        "FRENTE DE IZQUIERDA": 2,
+        "FRENTE DE TODOS": 4,
+        "MOVIMIENTO AL SOCIALISMO": 0,
+        "LIBRES DEL SUR": 0,
+        "MPN": 6,
+        "SOCIALISTA": 0
+    }
+}

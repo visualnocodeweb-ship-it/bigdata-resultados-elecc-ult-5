@@ -1,0 +1,832 @@
+{
+    "1378": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 142,
+        "FRENTE DE IZQUIERDA": 9,
+        "FRENTE NEUQUINO": 10,
+        "LIBRES DEL SUR": 3,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 30
+    },
+    "1379": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 110,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 3,
+        "MPN": 27,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 44
+    },
+    "1380": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 109,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 6,
+        "MPN": 23,
+        "NUEVA IZQUIERDA": 10,
+        "UNIDAD CIUDADANA": 39
+    },
+    "1381": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 132,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 6,
+        "MPN": 17,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 37
+    },
+    "1382": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 128,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE NEUQUINO": 12,
+        "LIBRES DEL SUR": 8,
+        "MPN": 17,
+        "NUEVA IZQUIERDA": 11,
+        "UNIDAD CIUDADANA": 52
+    },
+    "1383": {
+        "1PAIS FRENTE RENOVADOR": 2,
+        "CAMBIEMOS": 130,
+        "FRENTE DE IZQUIERDA": 31,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 9,
+        "MPN": 21,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 39
+    },
+    "1384": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 82,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 33,
+        "LIBRES DEL SUR": 8,
+        "MPN": 37,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 47
+    },
+    "1385": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 105,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 18,
+        "LIBRES DEL SUR": 7,
+        "MPN": 17,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 64
+    },
+    "1386": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 104,
+        "FRENTE DE IZQUIERDA": 27,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 12,
+        "MPN": 38,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 34
+    },
+    "1387": {
+        "1PAIS FRENTE RENOVADOR": 2,
+        "CAMBIEMOS": 127,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 11,
+        "LIBRES DEL SUR": 3,
+        "MPN": 29,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 41
+    },
+    "1388": {
+        "1PAIS FRENTE RENOVADOR": 1,
+        "CAMBIEMOS": 108,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE NEUQUINO": 35,
+        "LIBRES DEL SUR": 9,
+        "MPN": 34,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 40
+    },
+    "1389": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 109,
+        "FRENTE DE IZQUIERDA": 28,
+        "FRENTE NEUQUINO": 20,
+        "LIBRES DEL SUR": 4,
+        "MPN": 25,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 47
+    },
+    "1390": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 104,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 16,
+        "LIBRES DEL SUR": 7,
+        "MPN": 36,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1391": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 132,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE NEUQUINO": 8,
+        "LIBRES DEL SUR": 4,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 42
+    },
+    "1392": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 120,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 5,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 58
+    },
+    "1393": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 111,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 8,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 41
+    },
+    "1394": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 115,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 22,
+        "LIBRES DEL SUR": 13,
+        "MPN": 19,
+        "NUEVA IZQUIERDA": 11,
+        "UNIDAD CIUDADANA": 44
+    },
+    "1395": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 152,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 17,
+        "LIBRES DEL SUR": 7,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 33
+    },
+    "1396": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 105,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 18,
+        "LIBRES DEL SUR": 7,
+        "MPN": 34,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 48
+    },
+    "1397": {
+        "1PAIS FRENTE RENOVADOR": 0,
+        "CAMBIEMOS": 0,
+        "FRENTE DE IZQUIERDA": 0,
+        "FRENTE NEUQUINO": 0,
+        "LIBRES DEL SUR": 0,
+        "MPN": 0,
+        "NUEVA IZQUIERDA": 0,
+        "UNIDAD CIUDADANA": 0
+    },
+    "1398": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 120,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 12,
+        "LIBRES DEL SUR": 4,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 49
+    },
+    "1399": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 97,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE NEUQUINO": 34,
+        "LIBRES DEL SUR": 3,
+        "MPN": 21,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1400": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 119,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 7,
+        "MPN": 35,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 45
+    },
+    "1401": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 114,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 5,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 58
+    },
+    "1402": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 110,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 7,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 52
+    },
+    "1403": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 97,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 16,
+        "LIBRES DEL SUR": 7,
+        "MPN": 23,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 67
+    },
+    "1404": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 127,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 25,
+        "LIBRES DEL SUR": 4,
+        "MPN": 20,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 48
+    },
+    "1405": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 102,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 25,
+        "LIBRES DEL SUR": 5,
+        "MPN": 27,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 56
+    },
+    "1406": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 133,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 10,
+        "LIBRES DEL SUR": 1,
+        "MPN": 39,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 40
+    },
+    "1407": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 118,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 32,
+        "LIBRES DEL SUR": 5,
+        "MPN": 25,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 38
+    },
+    "1408": {
+        "1PAIS FRENTE RENOVADOR": 2,
+        "CAMBIEMOS": 122,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 17,
+        "LIBRES DEL SUR": 7,
+        "MPN": 31,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 35
+    },
+    "1409": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 140,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 16,
+        "LIBRES DEL SUR": 4,
+        "MPN": 29,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 36
+    },
+    "1410": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 117,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 5,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 45
+    },
+    "1411": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 99,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 22,
+        "LIBRES DEL SUR": 8,
+        "MPN": 34,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 41
+    },
+    "1412": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 89,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 27,
+        "LIBRES DEL SUR": 6,
+        "MPN": 41,
+        "NUEVA IZQUIERDA": 13,
+        "UNIDAD CIUDADANA": 67
+    },
+    "1413": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 139,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 13,
+        "LIBRES DEL SUR": 2,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1414": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 124,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 9,
+        "MPN": 30,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 46
+    },
+    "1415": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 95,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 8,
+        "MPN": 39,
+        "NUEVA IZQUIERDA": 8,
+        "UNIDAD CIUDADANA": 46
+    },
+    "1416": {
+        "1PAIS FRENTE RENOVADOR": 1,
+        "CAMBIEMOS": 114,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE NEUQUINO": 30,
+        "LIBRES DEL SUR": 10,
+        "MPN": 26,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 52
+    },
+    "1417": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 130,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 29,
+        "LIBRES DEL SUR": 6,
+        "MPN": 26,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 32
+    },
+    "1418": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 119,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE NEUQUINO": 31,
+        "LIBRES DEL SUR": 2,
+        "MPN": 35,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 39
+    },
+    "1419": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 97,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 31,
+        "LIBRES DEL SUR": 14,
+        "MPN": 38,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1420": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 112,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 35,
+        "LIBRES DEL SUR": 7,
+        "MPN": 33,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 51
+    },
+    "1421": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 93,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 31,
+        "LIBRES DEL SUR": 9,
+        "MPN": 42,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 55
+    },
+    "1422": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 106,
+        "FRENTE DE IZQUIERDA": 27,
+        "FRENTE NEUQUINO": 41,
+        "LIBRES DEL SUR": 4,
+        "MPN": 27,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 44
+    },
+    "1423": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 103,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE NEUQUINO": 21,
+        "LIBRES DEL SUR": 9,
+        "MPN": 38,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 51
+    },
+    "1424": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 127,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 17,
+        "LIBRES DEL SUR": 11,
+        "MPN": 29,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 49
+    },
+    "1425": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 79,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 52,
+        "LIBRES DEL SUR": 7,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 57
+    },
+    "1426": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 139,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 4,
+        "MPN": 25,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 45
+    },
+    "1427": {
+        "1PAIS FRENTE RENOVADOR": 13,
+        "CAMBIEMOS": 108,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 8,
+        "MPN": 29,
+        "NUEVA IZQUIERDA": 10,
+        "UNIDAD CIUDADANA": 63
+    },
+    "1428": {
+        "1PAIS FRENTE RENOVADOR": 11,
+        "CAMBIEMOS": 130,
+        "FRENTE DE IZQUIERDA": 20,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 3,
+        "MPN": 24,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1429": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 109,
+        "FRENTE DE IZQUIERDA": 22,
+        "FRENTE NEUQUINO": 16,
+        "LIBRES DEL SUR": 6,
+        "MPN": 53,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 37
+    },
+    "1430": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 121,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 7,
+        "MPN": 36,
+        "NUEVA IZQUIERDA": 10,
+        "UNIDAD CIUDADANA": 39
+    },
+    "1431": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 107,
+        "FRENTE DE IZQUIERDA": 8,
+        "FRENTE NEUQUINO": 39,
+        "LIBRES DEL SUR": 10,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 45
+    },
+    "1432": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 111,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 36,
+        "LIBRES DEL SUR": 9,
+        "MPN": 32,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 43
+    },
+    "1433": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 107,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 10,
+        "MPN": 40,
+        "NUEVA IZQUIERDA": 12,
+        "UNIDAD CIUDADANA": 47
+    },
+    "1434": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 125,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 19,
+        "LIBRES DEL SUR": 2,
+        "MPN": 22,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 69
+    },
+    "1435": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 128,
+        "FRENTE DE IZQUIERDA": 17,
+        "FRENTE NEUQUINO": 22,
+        "LIBRES DEL SUR": 6,
+        "MPN": 30,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 53
+    },
+    "1436": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 101,
+        "FRENTE DE IZQUIERDA": 6,
+        "FRENTE NEUQUINO": 35,
+        "LIBRES DEL SUR": 6,
+        "MPN": 36,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 50
+    },
+    "1437": {
+        "1PAIS FRENTE RENOVADOR": 10,
+        "CAMBIEMOS": 115,
+        "FRENTE DE IZQUIERDA": 15,
+        "FRENTE NEUQUINO": 25,
+        "LIBRES DEL SUR": 5,
+        "MPN": 41,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 45
+    },
+    "1438": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 109,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 34,
+        "LIBRES DEL SUR": 9,
+        "MPN": 31,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 47
+    },
+    "1439": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 113,
+        "FRENTE DE IZQUIERDA": 19,
+        "FRENTE NEUQUINO": 20,
+        "LIBRES DEL SUR": 8,
+        "MPN": 33,
+        "NUEVA IZQUIERDA": 9,
+        "UNIDAD CIUDADANA": 34
+    },
+    "1440": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 104,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 37,
+        "LIBRES DEL SUR": 5,
+        "MPN": 33,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 49
+    },
+    "1441": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 126,
+        "FRENTE DE IZQUIERDA": 13,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 11,
+        "MPN": 37,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 37
+    },
+    "1442": {
+        "1PAIS FRENTE RENOVADOR": 11,
+        "CAMBIEMOS": 127,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 17,
+        "LIBRES DEL SUR": 5,
+        "MPN": 25,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 54
+    },
+    "1443": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 110,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 8,
+        "MPN": 27,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 54
+    },
+    "1444": {
+        "1PAIS FRENTE RENOVADOR": 3,
+        "CAMBIEMOS": 93,
+        "FRENTE DE IZQUIERDA": 21,
+        "FRENTE NEUQUINO": 25,
+        "LIBRES DEL SUR": 12,
+        "MPN": 36,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 47
+    },
+    "1445": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 125,
+        "FRENTE DE IZQUIERDA": 10,
+        "FRENTE NEUQUINO": 15,
+        "LIBRES DEL SUR": 6,
+        "MPN": 25,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 44
+    },
+    "1446": {
+        "1PAIS FRENTE RENOVADOR": 11,
+        "CAMBIEMOS": 94,
+        "FRENTE DE IZQUIERDA": 32,
+        "FRENTE NEUQUINO": 29,
+        "LIBRES DEL SUR": 11,
+        "MPN": 36,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 53
+    },
+    "1447": {
+        "1PAIS FRENTE RENOVADOR": 7,
+        "CAMBIEMOS": 131,
+        "FRENTE DE IZQUIERDA": 18,
+        "FRENTE NEUQUINO": 23,
+        "LIBRES DEL SUR": 6,
+        "MPN": 27,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 36
+    },
+    "1448": {
+        "1PAIS FRENTE RENOVADOR": 10,
+        "CAMBIEMOS": 127,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 30,
+        "LIBRES DEL SUR": 6,
+        "MPN": 35,
+        "NUEVA IZQUIERDA": 1,
+        "UNIDAD CIUDADANA": 48
+    },
+    "1449": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 139,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 17,
+        "LIBRES DEL SUR": 9,
+        "MPN": 35,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 30
+    },
+    "1450": {
+        "1PAIS FRENTE RENOVADOR": 8,
+        "CAMBIEMOS": 115,
+        "FRENTE DE IZQUIERDA": 14,
+        "FRENTE NEUQUINO": 26,
+        "LIBRES DEL SUR": 12,
+        "MPN": 34,
+        "NUEVA IZQUIERDA": 6,
+        "UNIDAD CIUDADANA": 38
+    },
+    "1451": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 77,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 32,
+        "LIBRES DEL SUR": 12,
+        "MPN": 42,
+        "NUEVA IZQUIERDA": 5,
+        "UNIDAD CIUDADANA": 60
+    },
+    "1452": {
+        "1PAIS FRENTE RENOVADOR": 10,
+        "CAMBIEMOS": 105,
+        "FRENTE DE IZQUIERDA": 16,
+        "FRENTE NEUQUINO": 27,
+        "LIBRES DEL SUR": 8,
+        "MPN": 37,
+        "NUEVA IZQUIERDA": 1,
+        "UNIDAD CIUDADANA": 42
+    },
+    "1453": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 137,
+        "FRENTE DE IZQUIERDA": 9,
+        "FRENTE NEUQUINO": 18,
+        "LIBRES DEL SUR": 4,
+        "MPN": 28,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 46
+    },
+    "1454": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 23,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 14,
+        "LIBRES DEL SUR": 8,
+        "MPN": 21,
+        "NUEVA IZQUIERDA": 11,
+        "UNIDAD CIUDADANA": 35
+    },
+    "1455": {
+        "1PAIS FRENTE RENOVADOR": 9,
+        "CAMBIEMOS": 101,
+        "FRENTE DE IZQUIERDA": 5,
+        "FRENTE NEUQUINO": 8,
+        "LIBRES DEL SUR": 3,
+        "MPN": 12,
+        "NUEVA IZQUIERDA": 1,
+        "UNIDAD CIUDADANA": 41
+    },
+    "1456": {
+        "1PAIS FRENTE RENOVADOR": 1,
+        "CAMBIEMOS": 2,
+        "FRENTE DE IZQUIERDA": 1,
+        "FRENTE NEUQUINO": 6,
+        "LIBRES DEL SUR": 1,
+        "MPN": 3,
+        "NUEVA IZQUIERDA": 0,
+        "UNIDAD CIUDADANA": 0
+    },
+    "1457": {
+        "1PAIS FRENTE RENOVADOR": 4,
+        "CAMBIEMOS": 48,
+        "FRENTE DE IZQUIERDA": 12,
+        "FRENTE NEUQUINO": 9,
+        "LIBRES DEL SUR": 3,
+        "MPN": 21,
+        "NUEVA IZQUIERDA": 4,
+        "UNIDAD CIUDADANA": 27
+    },
+    "1458": {
+        "1PAIS FRENTE RENOVADOR": 5,
+        "CAMBIEMOS": 64,
+        "FRENTE DE IZQUIERDA": 7,
+        "FRENTE NEUQUINO": 8,
+        "LIBRES DEL SUR": 3,
+        "MPN": 20,
+        "NUEVA IZQUIERDA": 3,
+        "UNIDAD CIUDADANA": 16
+    },
+    "1459": {
+        "1PAIS FRENTE RENOVADOR": 6,
+        "CAMBIEMOS": 28,
+        "FRENTE DE IZQUIERDA": 11,
+        "FRENTE NEUQUINO": 21,
+        "LIBRES DEL SUR": 12,
+        "MPN": 31,
+        "NUEVA IZQUIERDA": 7,
+        "UNIDAD CIUDADANA": 34
+    },
+    "1461": {
+        "1PAIS FRENTE RENOVADOR": 0,
+        "CAMBIEMOS": 25,
+        "FRENTE DE IZQUIERDA": 3,
+        "FRENTE NEUQUINO": 6,
+        "LIBRES DEL SUR": 3,
+        "MPN": 8,
+        "NUEVA IZQUIERDA": 2,
+        "UNIDAD CIUDADANA": 11
+    }
+}

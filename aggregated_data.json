@@ -1,0 +1,5623 @@
+{
+    "0": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 8105,
+                "COALICION CIVICA - ARI": 1308,
+                "FRENTE DE IZQUIERDA": 1645,
+                "FRENTE DE TODOS": 3901,
+                "LIBRES DEL SUR": 813,
+                "MPN": 4483,
+                "SOCIALISTA": 591
+            }
+        },
+        "total_votes": 20846
+    },
+    "1248": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 122,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 42,
+                "FRENTE PARA LA VICTORIA": 76,
+                "FRENTE PROGRESISTA SUR": 13,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 147,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 480
+    },
+    "1249": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 76,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 45,
+                "FRENTE PARA LA VICTORIA": 76,
+                "FRENTE PROGRESISTA SUR": 26,
+                "MOVIMIENTO LIBRES DEL SUR": 24,
+                "MOVIMIENTO POPULAR NEUQUINO": 152,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 37
+            }
+        },
+        "total_votes": 462
+    },
+    "1250": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 68,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 50,
+                "FRENTE PARA LA VICTORIA": 93,
+                "FRENTE PROGRESISTA SUR": 24,
+                "MOVIMIENTO LIBRES DEL SUR": 7,
+                "MOVIMIENTO POPULAR NEUQUINO": 144,
+                "UNION DE LOS NEUQUINOS": 36,
+                "UNION POPULAR": 33
+            }
+        },
+        "total_votes": 455
+    },
+    "1251": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 84,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 59,
+                "FRENTE PARA LA VICTORIA": 88,
+                "FRENTE PROGRESISTA SUR": 18,
+                "MOVIMIENTO LIBRES DEL SUR": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 135,
+                "UNION DE LOS NEUQUINOS": 42,
+                "UNION POPULAR": 37
+            }
+        },
+        "total_votes": 478
+    },
+    "1252": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 98,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 38,
+                "FRENTE PARA LA VICTORIA": 80,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 121,
+                "UNION DE LOS NEUQUINOS": 23,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 435
+    },
+    "1253": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 62,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 53,
+                "FRENTE PARA LA VICTORIA": 87,
+                "FRENTE PROGRESISTA SUR": 38,
+                "MOVIMIENTO LIBRES DEL SUR": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 154,
+                "UNION DE LOS NEUQUINOS": 14,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 462
+    },
+    "1254": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 60,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 67,
+                "FRENTE PARA LA VICTORIA": 86,
+                "FRENTE PROGRESISTA SUR": 35,
+                "MOVIMIENTO LIBRES DEL SUR": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 147,
+                "UNION DE LOS NEUQUINOS": 23,
+                "UNION POPULAR": 22
+            }
+        },
+        "total_votes": 460
+    },
+    "1255": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 81,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 57,
+                "FRENTE PARA LA VICTORIA": 91,
+                "FRENTE PROGRESISTA SUR": 30,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 146,
+                "UNION DE LOS NEUQUINOS": 23,
+                "UNION POPULAR": 20
+            }
+        },
+        "total_votes": 464
+    },
+    "1256": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 80,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 66,
+                "FRENTE PARA LA VICTORIA": 50,
+                "FRENTE PROGRESISTA SUR": 18,
+                "MOVIMIENTO LIBRES DEL SUR": 7,
+                "MOVIMIENTO POPULAR NEUQUINO": 179,
+                "UNION DE LOS NEUQUINOS": 30,
+                "UNION POPULAR": 28
+            }
+        },
+        "total_votes": 458
+    },
+    "1257": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 38,
+                "FRENTE PARA LA VICTORIA": 89,
+                "FRENTE PROGRESISTA SUR": 14,
+                "MOVIMIENTO LIBRES DEL SUR": 12,
+                "MOVIMIENTO POPULAR NEUQUINO": 152,
+                "UNION DE LOS NEUQUINOS": 14,
+                "UNION POPULAR": 24
+            }
+        },
+        "total_votes": 416
+    },
+    "1258": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 96,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 52,
+                "FRENTE PARA LA VICTORIA": 71,
+                "FRENTE PROGRESISTA SUR": 17,
+                "MOVIMIENTO LIBRES DEL SUR": 9,
+                "MOVIMIENTO POPULAR NEUQUINO": 151,
+                "UNION DE LOS NEUQUINOS": 22,
+                "UNION POPULAR": 47
+            }
+        },
+        "total_votes": 465
+    },
+    "1259": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 87,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 51,
+                "FRENTE PARA LA VICTORIA": 87,
+                "FRENTE PROGRESISTA SUR": 17,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 152,
+                "UNION DE LOS NEUQUINOS": 21,
+                "UNION POPULAR": 13
+            }
+        },
+        "total_votes": 449
+    },
+    "1260": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 74,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 76,
+                "FRENTE PARA LA VICTORIA": 84,
+                "FRENTE PROGRESISTA SUR": 31,
+                "MOVIMIENTO LIBRES DEL SUR": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 131,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 28
+            }
+        },
+        "total_votes": 472
+    },
+    "1261": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 84,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 56,
+                "FRENTE PARA LA VICTORIA": 92,
+                "FRENTE PROGRESISTA SUR": 21,
+                "MOVIMIENTO LIBRES DEL SUR": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 134,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 25
+            }
+        },
+        "total_votes": 456
+    },
+    "1262": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 81,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 49,
+                "FRENTE PARA LA VICTORIA": 109,
+                "FRENTE PROGRESISTA SUR": 9,
+                "MOVIMIENTO LIBRES DEL SUR": 30,
+                "MOVIMIENTO POPULAR NEUQUINO": 154,
+                "UNION DE LOS NEUQUINOS": 19,
+                "UNION POPULAR": 22
+            }
+        },
+        "total_votes": 473
+    },
+    "1263": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 67,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 56,
+                "FRENTE PARA LA VICTORIA": 73,
+                "FRENTE PROGRESISTA SUR": 19,
+                "MOVIMIENTO LIBRES DEL SUR": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 159,
+                "UNION DE LOS NEUQUINOS": 24,
+                "UNION POPULAR": 28
+            }
+        },
+        "total_votes": 449
+    },
+    "1264": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 90,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 45,
+                "FRENTE PARA LA VICTORIA": 48,
+                "FRENTE PROGRESISTA SUR": 25,
+                "MOVIMIENTO LIBRES DEL SUR": 26,
+                "MOVIMIENTO POPULAR NEUQUINO": 157,
+                "UNION DE LOS NEUQUINOS": 31,
+                "UNION POPULAR": 45
+            }
+        },
+        "total_votes": 467
+    },
+    "1265": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 74,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 67,
+                "FRENTE PARA LA VICTORIA": 93,
+                "FRENTE PROGRESISTA SUR": 11,
+                "MOVIMIENTO LIBRES DEL SUR": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 167,
+                "UNION DE LOS NEUQUINOS": 24,
+                "UNION POPULAR": 34
+            }
+        },
+        "total_votes": 487
+    },
+    "1266": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 63,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 59,
+                "FRENTE PARA LA VICTORIA": 75,
+                "FRENTE PROGRESISTA SUR": 32,
+                "MOVIMIENTO LIBRES DEL SUR": 28,
+                "MOVIMIENTO POPULAR NEUQUINO": 158,
+                "UNION DE LOS NEUQUINOS": 37,
+                "UNION POPULAR": 30
+            }
+        },
+        "total_votes": 482
+    },
+    "1267": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 53,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 43,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 17,
+                "MOVIMIENTO LIBRES DEL SUR": 51,
+                "MOVIMIENTO POPULAR NEUQUINO": 166,
+                "UNION DE LOS NEUQUINOS": 34,
+                "UNION POPULAR": 39
+            }
+        },
+        "total_votes": 488
+    },
+    "1268": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 83,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 51,
+                "FRENTE PARA LA VICTORIA": 74,
+                "FRENTE PROGRESISTA SUR": 16,
+                "MOVIMIENTO LIBRES DEL SUR": 27,
+                "MOVIMIENTO POPULAR NEUQUINO": 128,
+                "UNION DE LOS NEUQUINOS": 35,
+                "UNION POPULAR": 24
+            }
+        },
+        "total_votes": 438
+    },
+    "1269": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 63,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 62,
+                "FRENTE PARA LA VICTORIA": 95,
+                "FRENTE PROGRESISTA SUR": 19,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 125,
+                "UNION DE LOS NEUQUINOS": 31,
+                "UNION POPULAR": 34
+            }
+        },
+        "total_votes": 450
+    },
+    "1270": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 81,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 50,
+                "FRENTE PARA LA VICTORIA": 91,
+                "FRENTE PROGRESISTA SUR": 13,
+                "MOVIMIENTO LIBRES DEL SUR": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 145,
+                "UNION DE LOS NEUQUINOS": 36,
+                "UNION POPULAR": 29
+            }
+        },
+        "total_votes": 464
+    },
+    "1271": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 62,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 52,
+                "FRENTE PARA LA VICTORIA": 96,
+                "FRENTE PROGRESISTA SUR": 27,
+                "MOVIMIENTO LIBRES DEL SUR": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 171,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 489
+    },
+    "1272": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 74,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 66,
+                "FRENTE PARA LA VICTORIA": 80,
+                "FRENTE PROGRESISTA SUR": 22,
+                "MOVIMIENTO LIBRES DEL SUR": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 116,
+                "UNION DE LOS NEUQUINOS": 33,
+                "UNION POPULAR": 32
+            }
+        },
+        "total_votes": 441
+    },
+    "1273": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 91,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 55,
+                "FRENTE PARA LA VICTORIA": 69,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 27,
+                "MOVIMIENTO POPULAR NEUQUINO": 123,
+                "UNION DE LOS NEUQUINOS": 27,
+                "UNION POPULAR": 37
+            }
+        },
+        "total_votes": 449
+    },
+    "1274": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 55,
+                "FRENTE PARA LA VICTORIA": 93,
+                "FRENTE PROGRESISTA SUR": 13,
+                "MOVIMIENTO LIBRES DEL SUR": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 167,
+                "UNION DE LOS NEUQUINOS": 24,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 476
+    },
+    "1275": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 98,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 52,
+                "FRENTE PARA LA VICTORIA": 78,
+                "FRENTE PROGRESISTA SUR": 16,
+                "MOVIMIENTO LIBRES DEL SUR": 30,
+                "MOVIMIENTO POPULAR NEUQUINO": 127,
+                "UNION DE LOS NEUQUINOS": 22,
+                "UNION POPULAR": 34
+            }
+        },
+        "total_votes": 457
+    },
+    "1276": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 59,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 38,
+                "FRENTE PARA LA VICTORIA": 83,
+                "FRENTE PROGRESISTA SUR": 16,
+                "MOVIMIENTO LIBRES DEL SUR": 30,
+                "MOVIMIENTO POPULAR NEUQUINO": 185,
+                "UNION DE LOS NEUQUINOS": 30,
+                "UNION POPULAR": 30
+            }
+        },
+        "total_votes": 471
+    },
+    "1277": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 101,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 46,
+                "FRENTE PARA LA VICTORIA": 60,
+                "FRENTE PROGRESISTA SUR": 22,
+                "MOVIMIENTO LIBRES DEL SUR": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 116,
+                "UNION DE LOS NEUQUINOS": 23,
+                "UNION POPULAR": 40
+            }
+        },
+        "total_votes": 423
+    },
+    "1278": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 97,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 68,
+                "FRENTE PARA LA VICTORIA": 72,
+                "FRENTE PROGRESISTA SUR": 23,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 116,
+                "UNION DE LOS NEUQUINOS": 17,
+                "UNION POPULAR": 29
+            }
+        },
+        "total_votes": 443
+    },
+    "1279": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 76,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 65,
+                "FRENTE PARA LA VICTORIA": 70,
+                "FRENTE PROGRESISTA SUR": 23,
+                "MOVIMIENTO LIBRES DEL SUR": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 159,
+                "UNION DE LOS NEUQUINOS": 9,
+                "UNION POPULAR": 22
+            }
+        },
+        "total_votes": 443
+    },
+    "1280": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 65,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 47,
+                "FRENTE PARA LA VICTORIA": 139,
+                "FRENTE PROGRESISTA SUR": 40,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 158,
+                "UNION DE LOS NEUQUINOS": 22,
+                "UNION POPULAR": 22
+            }
+        },
+        "total_votes": 509
+    },
+    "1281": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 103,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 46,
+                "FRENTE PARA LA VICTORIA": 48,
+                "FRENTE PROGRESISTA SUR": 16,
+                "MOVIMIENTO LIBRES DEL SUR": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 148,
+                "UNION DE LOS NEUQUINOS": 34,
+                "UNION POPULAR": 36
+            }
+        },
+        "total_votes": 445
+    },
+    "1282": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 49,
+                "FRENTE PARA LA VICTORIA": 78,
+                "FRENTE PROGRESISTA SUR": 31,
+                "MOVIMIENTO LIBRES DEL SUR": 11,
+                "MOVIMIENTO POPULAR NEUQUINO": 186,
+                "UNION DE LOS NEUQUINOS": 19,
+                "UNION POPULAR": 39
+            }
+        },
+        "total_votes": 486
+    },
+    "1283": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 64,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 58,
+                "FRENTE PARA LA VICTORIA": 88,
+                "FRENTE PROGRESISTA SUR": 24,
+                "MOVIMIENTO LIBRES DEL SUR": 25,
+                "MOVIMIENTO POPULAR NEUQUINO": 152,
+                "UNION DE LOS NEUQUINOS": 20,
+                "UNION POPULAR": 40
+            }
+        },
+        "total_votes": 471
+    },
+    "1284": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 61,
+                "FRENTE PARA LA VICTORIA": 63,
+                "FRENTE PROGRESISTA SUR": 10,
+                "MOVIMIENTO LIBRES DEL SUR": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 173,
+                "UNION DE LOS NEUQUINOS": 20,
+                "UNION POPULAR": 41
+            }
+        },
+        "total_votes": 461
+    },
+    "1285": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 93,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 55,
+                "FRENTE PARA LA VICTORIA": 79,
+                "FRENTE PROGRESISTA SUR": 13,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 173,
+                "UNION DE LOS NEUQUINOS": 11,
+                "UNION POPULAR": 38
+            }
+        },
+        "total_votes": 484
+    },
+    "1286": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 70,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 44,
+                "FRENTE PARA LA VICTORIA": 97,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 176,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 11
+            }
+        },
+        "total_votes": 467
+    },
+    "1287": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 58,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 42,
+                "FRENTE PARA LA VICTORIA": 61,
+                "FRENTE PROGRESISTA SUR": 37,
+                "MOVIMIENTO LIBRES DEL SUR": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 213,
+                "UNION DE LOS NEUQUINOS": 21,
+                "UNION POPULAR": 38
+            }
+        },
+        "total_votes": 484
+    },
+    "1288": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 70,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 57,
+                "FRENTE PARA LA VICTORIA": 98,
+                "FRENTE PROGRESISTA SUR": 29,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 163,
+                "UNION DE LOS NEUQUINOS": 24,
+                "UNION POPULAR": 44
+            }
+        },
+        "total_votes": 507
+    },
+    "1289": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 61,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 47,
+                "FRENTE PARA LA VICTORIA": 99,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 183,
+                "UNION DE LOS NEUQUINOS": 33,
+                "UNION POPULAR": 35
+            }
+        },
+        "total_votes": 501
+    },
+    "1290": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 72,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 38,
+                "FRENTE PARA LA VICTORIA": 110,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 27,
+                "MOVIMIENTO POPULAR NEUQUINO": 139,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 60
+            }
+        },
+        "total_votes": 492
+    },
+    "1291": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 61,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 42,
+                "FRENTE PARA LA VICTORIA": 94,
+                "FRENTE PROGRESISTA SUR": 34,
+                "MOVIMIENTO LIBRES DEL SUR": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 172,
+                "UNION DE LOS NEUQUINOS": 22,
+                "UNION POPULAR": 39
+            }
+        },
+        "total_votes": 487
+    },
+    "1292": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 60,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 51,
+                "FRENTE PARA LA VICTORIA": 63,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 24,
+                "MOVIMIENTO POPULAR NEUQUINO": 207,
+                "UNION DE LOS NEUQUINOS": 22,
+                "UNION POPULAR": 44
+            }
+        },
+        "total_votes": 491
+    },
+    "1293": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 89,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 30,
+                "FRENTE PARA LA VICTORIA": 88,
+                "FRENTE PROGRESISTA SUR": 24,
+                "MOVIMIENTO LIBRES DEL SUR": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 148,
+                "UNION DE LOS NEUQUINOS": 17,
+                "UNION POPULAR": 52
+            }
+        },
+        "total_votes": 462
+    },
+    "1294": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 70,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 40,
+                "FRENTE PARA LA VICTORIA": 77,
+                "FRENTE PROGRESISTA SUR": 20,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 173,
+                "UNION DE LOS NEUQUINOS": 21,
+                "UNION POPULAR": 47
+            }
+        },
+        "total_votes": 470
+    },
+    "1295": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 64,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 58,
+                "FRENTE PARA LA VICTORIA": 80,
+                "FRENTE PROGRESISTA SUR": 16,
+                "MOVIMIENTO LIBRES DEL SUR": 29,
+                "MOVIMIENTO POPULAR NEUQUINO": 181,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 52
+            }
+        },
+        "total_votes": 506
+    },
+    "1296": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 60,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 60,
+                "FRENTE PARA LA VICTORIA": 90,
+                "FRENTE PROGRESISTA SUR": 29,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 194,
+                "UNION DE LOS NEUQUINOS": 21,
+                "UNION POPULAR": 28
+            }
+        },
+        "total_votes": 498
+    },
+    "1297": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 75,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 46,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 11,
+                "MOVIMIENTO LIBRES DEL SUR": 12,
+                "MOVIMIENTO POPULAR NEUQUINO": 170,
+                "UNION DE LOS NEUQUINOS": 34,
+                "UNION POPULAR": 43
+            }
+        },
+        "total_votes": 476
+    },
+    "1298": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 64,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 50,
+                "FRENTE PARA LA VICTORIA": 92,
+                "FRENTE PROGRESISTA SUR": 19,
+                "MOVIMIENTO LIBRES DEL SUR": 29,
+                "MOVIMIENTO POPULAR NEUQUINO": 179,
+                "UNION DE LOS NEUQUINOS": 23,
+                "UNION POPULAR": 33
+            }
+        },
+        "total_votes": 489
+    },
+    "1299": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 81,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 43,
+                "FRENTE PARA LA VICTORIA": 91,
+                "FRENTE PROGRESISTA SUR": 27,
+                "MOVIMIENTO LIBRES DEL SUR": 25,
+                "MOVIMIENTO POPULAR NEUQUINO": 165,
+                "UNION DE LOS NEUQUINOS": 20,
+                "UNION POPULAR": 57
+            }
+        },
+        "total_votes": 509
+    },
+    "1300": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 58,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 55,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 30,
+                "MOVIMIENTO LIBRES DEL SUR": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 181,
+                "UNION DE LOS NEUQUINOS": 24,
+                "UNION POPULAR": 39
+            }
+        },
+        "total_votes": 486
+    },
+    "1301": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 60,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 57,
+                "FRENTE PARA LA VICTORIA": 58,
+                "FRENTE PROGRESISTA SUR": 37,
+                "MOVIMIENTO LIBRES DEL SUR": 27,
+                "MOVIMIENTO POPULAR NEUQUINO": 177,
+                "UNION DE LOS NEUQUINOS": 31,
+                "UNION POPULAR": 55
+            }
+        },
+        "total_votes": 502
+    },
+    "1302": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 63,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 49,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 17,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 191,
+                "UNION DE LOS NEUQUINOS": 20,
+                "UNION POPULAR": 25
+            }
+        },
+        "total_votes": 471
+    },
+    "1303": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 68,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 61,
+                "FRENTE PARA LA VICTORIA": 91,
+                "FRENTE PROGRESISTA SUR": 27,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 164,
+                "UNION DE LOS NEUQUINOS": 25,
+                "UNION POPULAR": 30
+            }
+        },
+        "total_votes": 488
+    },
+    "1304": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 58,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 64,
+                "FRENTE PARA LA VICTORIA": 90,
+                "FRENTE PROGRESISTA SUR": 27,
+                "MOVIMIENTO LIBRES DEL SUR": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 176,
+                "UNION DE LOS NEUQUINOS": 33,
+                "UNION POPULAR": 37
+            }
+        },
+        "total_votes": 502
+    },
+    "1305": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 85,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 64,
+                "FRENTE PARA LA VICTORIA": 101,
+                "FRENTE PROGRESISTA SUR": 13,
+                "MOVIMIENTO LIBRES DEL SUR": 24,
+                "MOVIMIENTO POPULAR NEUQUINO": 175,
+                "UNION DE LOS NEUQUINOS": 27,
+                "UNION POPULAR": 29
+            }
+        },
+        "total_votes": 518
+    },
+    "1306": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 49,
+                "FRENTE PARA LA VICTORIA": 90,
+                "FRENTE PROGRESISTA SUR": 29,
+                "MOVIMIENTO LIBRES DEL SUR": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 177,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 31
+            }
+        },
+        "total_votes": 497
+    },
+    "1307": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 67,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 48,
+                "FRENTE PARA LA VICTORIA": 115,
+                "FRENTE PROGRESISTA SUR": 25,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 147,
+                "UNION DE LOS NEUQUINOS": 25,
+                "UNION POPULAR": 22
+            }
+        },
+        "total_votes": 471
+    },
+    "1308": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 63,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 64,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 35,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 168,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 38
+            }
+        },
+        "total_votes": 497
+    },
+    "1309": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 46,
+                "FRENTE PARA LA VICTORIA": 68,
+                "FRENTE PROGRESISTA SUR": 21,
+                "MOVIMIENTO LIBRES DEL SUR": 36,
+                "MOVIMIENTO POPULAR NEUQUINO": 187,
+                "UNION DE LOS NEUQUINOS": 20,
+                "UNION POPULAR": 29
+            }
+        },
+        "total_votes": 480
+    },
+    "1310": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 76,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 44,
+                "FRENTE PARA LA VICTORIA": 113,
+                "FRENTE PROGRESISTA SUR": 18,
+                "MOVIMIENTO LIBRES DEL SUR": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 142,
+                "UNION DE LOS NEUQUINOS": 28,
+                "UNION POPULAR": 44
+            }
+        },
+        "total_votes": 481
+    },
+    "1311": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 75,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 68,
+                "FRENTE PARA LA VICTORIA": 61,
+                "FRENTE PROGRESISTA SUR": 24,
+                "MOVIMIENTO LIBRES DEL SUR": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 178,
+                "UNION DE LOS NEUQUINOS": 19,
+                "UNION POPULAR": 50
+            }
+        },
+        "total_votes": 498
+    },
+    "1312": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 55,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 42,
+                "FRENTE PARA LA VICTORIA": 88,
+                "FRENTE PROGRESISTA SUR": 39,
+                "MOVIMIENTO LIBRES DEL SUR": 25,
+                "MOVIMIENTO POPULAR NEUQUINO": 200,
+                "UNION DE LOS NEUQUINOS": 41,
+                "UNION POPULAR": 35
+            }
+        },
+        "total_votes": 525
+    },
+    "1313": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 40,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 56,
+                "FRENTE PARA LA VICTORIA": 91,
+                "FRENTE PROGRESISTA SUR": 33,
+                "MOVIMIENTO LIBRES DEL SUR": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 181,
+                "UNION DE LOS NEUQUINOS": 42,
+                "UNION POPULAR": 42
+            }
+        },
+        "total_votes": 500
+    },
+    "1314": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 73,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 41,
+                "FRENTE PARA LA VICTORIA": 54,
+                "FRENTE PROGRESISTA SUR": 12,
+                "MOVIMIENTO LIBRES DEL SUR": 26,
+                "MOVIMIENTO POPULAR NEUQUINO": 158,
+                "UNION DE LOS NEUQUINOS": 54,
+                "UNION POPULAR": 47
+            }
+        },
+        "total_votes": 465
+    },
+    "1315": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 11,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 24,
+                "FRENTE PARA LA VICTORIA": 85,
+                "FRENTE PROGRESISTA SUR": 10,
+                "MOVIMIENTO LIBRES DEL SUR": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 34,
+                "UNION DE LOS NEUQUINOS": 12,
+                "UNION POPULAR": 6
+            }
+        },
+        "total_votes": 203
+    },
+    "1316": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 32,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 17,
+                "FRENTE PARA LA VICTORIA": 30,
+                "FRENTE PROGRESISTA SUR": 8,
+                "MOVIMIENTO LIBRES DEL SUR": 4,
+                "MOVIMIENTO POPULAR NEUQUINO": 29,
+                "UNION DE LOS NEUQUINOS": 14,
+                "UNION POPULAR": 10
+            }
+        },
+        "total_votes": 144
+    },
+    "1317": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 2,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 6,
+                "FRENTE PARA LA VICTORIA": 6,
+                "FRENTE PROGRESISTA SUR": 2,
+                "MOVIMIENTO LIBRES DEL SUR": 3,
+                "MOVIMIENTO POPULAR NEUQUINO": 16,
+                "UNION DE LOS NEUQUINOS": 0,
+                "UNION POPULAR": 0
+            }
+        },
+        "total_votes": 35
+    },
+    "1318": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 57,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 44,
+                "FRENTE PARA LA VICTORIA": 43,
+                "FRENTE PROGRESISTA SUR": 25,
+                "MOVIMIENTO LIBRES DEL SUR": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 109,
+                "UNION DE LOS NEUQUINOS": 26,
+                "UNION POPULAR": 27
+            }
+        },
+        "total_votes": 351
+    },
+    "1319": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 8,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 33,
+                "FRENTE PARA LA VICTORIA": 89,
+                "FRENTE PROGRESISTA SUR": 11,
+                "MOVIMIENTO LIBRES DEL SUR": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 66,
+                "UNION DE LOS NEUQUINOS": 13,
+                "UNION POPULAR": 10
+            }
+        },
+        "total_votes": 252
+    },
+    "1321": {
+        "years": {
+            "2013": {
+                "COMPROMISO CIVICO NEUQUINO": 14,
+                "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES": 6,
+                "FRENTE PARA LA VICTORIA": 7,
+                "FRENTE PROGRESISTA SUR": 10,
+                "MOVIMIENTO LIBRES DEL SUR": 2,
+                "MOVIMIENTO POPULAR NEUQUINO": 14,
+                "UNION DE LOS NEUQUINOS": 4,
+                "UNION POPULAR": 4
+            }
+        },
+        "total_votes": 61
+    },
+    "1378": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 142,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE NEUQUINO": 10,
+                "LIBRES DEL SUR": 3,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 30
+            }
+        },
+        "total_votes": 234
+    },
+    "1379": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 110,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 3,
+                "MPN": 27,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 44
+            }
+        },
+        "total_votes": 235
+    },
+    "1380": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 109,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 6,
+                "MPN": 23,
+                "NUEVA IZQUIERDA": 10,
+                "UNIDAD CIUDADANA": 39
+            }
+        },
+        "total_votes": 234
+    },
+    "1381": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 132,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 6,
+                "MPN": 17,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 37
+            }
+        },
+        "total_votes": 237
+    },
+    "1382": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 128,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE NEUQUINO": 12,
+                "LIBRES DEL SUR": 8,
+                "MPN": 17,
+                "NUEVA IZQUIERDA": 11,
+                "UNIDAD CIUDADANA": 52
+            }
+        },
+        "total_votes": 242
+    },
+    "1383": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 2,
+                "CAMBIEMOS": 130,
+                "FRENTE DE IZQUIERDA": 31,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 9,
+                "MPN": 21,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 39
+            }
+        },
+        "total_votes": 253
+    },
+    "1384": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 82,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 33,
+                "LIBRES DEL SUR": 8,
+                "MPN": 37,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 47
+            }
+        },
+        "total_votes": 232
+    },
+    "1385": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 105,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 18,
+                "LIBRES DEL SUR": 7,
+                "MPN": 17,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 64
+            }
+        },
+        "total_votes": 237
+    },
+    "1386": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 104,
+                "FRENTE DE IZQUIERDA": 27,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 12,
+                "MPN": 38,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 34
+            }
+        },
+        "total_votes": 244
+    },
+    "1387": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 2,
+                "CAMBIEMOS": 127,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 11,
+                "LIBRES DEL SUR": 3,
+                "MPN": 29,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 41
+            }
+        },
+        "total_votes": 233
+    },
+    "1388": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 1,
+                "CAMBIEMOS": 108,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE NEUQUINO": 35,
+                "LIBRES DEL SUR": 9,
+                "MPN": 34,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 40
+            }
+        },
+        "total_votes": 252
+    },
+    "1389": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 109,
+                "FRENTE DE IZQUIERDA": 28,
+                "FRENTE NEUQUINO": 20,
+                "LIBRES DEL SUR": 4,
+                "MPN": 25,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 47
+            }
+        },
+        "total_votes": 246
+    },
+    "1390": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 104,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 16,
+                "LIBRES DEL SUR": 7,
+                "MPN": 36,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 233
+    },
+    "1391": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 132,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE NEUQUINO": 8,
+                "LIBRES DEL SUR": 4,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 42
+            }
+        },
+        "total_votes": 240
+    },
+    "1392": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 120,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 5,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 58
+            }
+        },
+        "total_votes": 254
+    },
+    "1393": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 111,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 8,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 41
+            }
+        },
+        "total_votes": 227
+    },
+    "1394": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 115,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 22,
+                "LIBRES DEL SUR": 13,
+                "MPN": 19,
+                "NUEVA IZQUIERDA": 11,
+                "UNIDAD CIUDADANA": 44
+            }
+        },
+        "total_votes": 243
+    },
+    "1395": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 152,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 17,
+                "LIBRES DEL SUR": 7,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 33
+            }
+        },
+        "total_votes": 266
+    },
+    "1396": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 105,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 18,
+                "LIBRES DEL SUR": 7,
+                "MPN": 34,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 48
+            }
+        },
+        "total_votes": 240
+    },
+    "1397": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 0,
+                "CAMBIEMOS": 0,
+                "FRENTE DE IZQUIERDA": 0,
+                "FRENTE NEUQUINO": 0,
+                "LIBRES DEL SUR": 0,
+                "MPN": 0,
+                "NUEVA IZQUIERDA": 0,
+                "UNIDAD CIUDADANA": 0
+            }
+        },
+        "total_votes": 0
+    },
+    "1398": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 120,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 12,
+                "LIBRES DEL SUR": 4,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 49
+            }
+        },
+        "total_votes": 243
+    },
+    "1399": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 97,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE NEUQUINO": 34,
+                "LIBRES DEL SUR": 3,
+                "MPN": 21,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 229
+    },
+    "1400": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 119,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 7,
+                "MPN": 35,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 45
+            }
+        },
+        "total_votes": 246
+    },
+    "1401": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 114,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 5,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 58
+            }
+        },
+        "total_votes": 256
+    },
+    "1402": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 110,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 7,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 52
+            }
+        },
+        "total_votes": 248
+    },
+    "1403": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 97,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 16,
+                "LIBRES DEL SUR": 7,
+                "MPN": 23,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 67
+            }
+        },
+        "total_votes": 232
+    },
+    "1404": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 127,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 25,
+                "LIBRES DEL SUR": 4,
+                "MPN": 20,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 48
+            }
+        },
+        "total_votes": 250
+    },
+    "1405": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 102,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 25,
+                "LIBRES DEL SUR": 5,
+                "MPN": 27,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 56
+            }
+        },
+        "total_votes": 244
+    },
+    "1406": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 133,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 10,
+                "LIBRES DEL SUR": 1,
+                "MPN": 39,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 40
+            }
+        },
+        "total_votes": 246
+    },
+    "1407": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 118,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 32,
+                "LIBRES DEL SUR": 5,
+                "MPN": 25,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 38
+            }
+        },
+        "total_votes": 245
+    },
+    "1408": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 2,
+                "CAMBIEMOS": 122,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 17,
+                "LIBRES DEL SUR": 7,
+                "MPN": 31,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 35
+            }
+        },
+        "total_votes": 237
+    },
+    "1409": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 140,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 16,
+                "LIBRES DEL SUR": 4,
+                "MPN": 29,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 36
+            }
+        },
+        "total_votes": 252
+    },
+    "1410": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 117,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 5,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 45
+            }
+        },
+        "total_votes": 233
+    },
+    "1411": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 99,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 22,
+                "LIBRES DEL SUR": 8,
+                "MPN": 34,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 41
+            }
+        },
+        "total_votes": 229
+    },
+    "1412": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 89,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 27,
+                "LIBRES DEL SUR": 6,
+                "MPN": 41,
+                "NUEVA IZQUIERDA": 13,
+                "UNIDAD CIUDADANA": 67
+            }
+        },
+        "total_votes": 261
+    },
+    "1413": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 139,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 13,
+                "LIBRES DEL SUR": 2,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 248
+    },
+    "1414": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 124,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 9,
+                "MPN": 30,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 46
+            }
+        },
+        "total_votes": 264
+    },
+    "1415": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 95,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 8,
+                "MPN": 39,
+                "NUEVA IZQUIERDA": 8,
+                "UNIDAD CIUDADANA": 46
+            }
+        },
+        "total_votes": 240
+    },
+    "1416": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 1,
+                "CAMBIEMOS": 114,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE NEUQUINO": 30,
+                "LIBRES DEL SUR": 10,
+                "MPN": 26,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 52
+            }
+        },
+        "total_votes": 256
+    },
+    "1417": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 130,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 29,
+                "LIBRES DEL SUR": 6,
+                "MPN": 26,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 32
+            }
+        },
+        "total_votes": 247
+    },
+    "1418": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 119,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE NEUQUINO": 31,
+                "LIBRES DEL SUR": 2,
+                "MPN": 35,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 39
+            }
+        },
+        "total_votes": 258
+    },
+    "1419": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 97,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 31,
+                "LIBRES DEL SUR": 14,
+                "MPN": 38,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 247
+    },
+    "1420": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 112,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 35,
+                "LIBRES DEL SUR": 7,
+                "MPN": 33,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 51
+            }
+        },
+        "total_votes": 270
+    },
+    "1421": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 93,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 31,
+                "LIBRES DEL SUR": 9,
+                "MPN": 42,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 55
+            }
+        },
+        "total_votes": 261
+    },
+    "1422": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 106,
+                "FRENTE DE IZQUIERDA": 27,
+                "FRENTE NEUQUINO": 41,
+                "LIBRES DEL SUR": 4,
+                "MPN": 27,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 44
+            }
+        },
+        "total_votes": 258
+    },
+    "1423": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 103,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE NEUQUINO": 21,
+                "LIBRES DEL SUR": 9,
+                "MPN": 38,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 51
+            }
+        },
+        "total_votes": 245
+    },
+    "1424": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 127,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 17,
+                "LIBRES DEL SUR": 11,
+                "MPN": 29,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 49
+            }
+        },
+        "total_votes": 257
+    },
+    "1425": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 79,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 52,
+                "LIBRES DEL SUR": 7,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 57
+            }
+        },
+        "total_votes": 259
+    },
+    "1426": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 139,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 4,
+                "MPN": 25,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 45
+            }
+        },
+        "total_votes": 255
+    },
+    "1427": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 13,
+                "CAMBIEMOS": 108,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 8,
+                "MPN": 29,
+                "NUEVA IZQUIERDA": 10,
+                "UNIDAD CIUDADANA": 63
+            }
+        },
+        "total_votes": 267
+    },
+    "1428": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 11,
+                "CAMBIEMOS": 130,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 3,
+                "MPN": 24,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 252
+    },
+    "1429": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 109,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE NEUQUINO": 16,
+                "LIBRES DEL SUR": 6,
+                "MPN": 53,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 37
+            }
+        },
+        "total_votes": 257
+    },
+    "1430": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 121,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 7,
+                "MPN": 36,
+                "NUEVA IZQUIERDA": 10,
+                "UNIDAD CIUDADANA": 39
+            }
+        },
+        "total_votes": 246
+    },
+    "1431": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 107,
+                "FRENTE DE IZQUIERDA": 8,
+                "FRENTE NEUQUINO": 39,
+                "LIBRES DEL SUR": 10,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 45
+            }
+        },
+        "total_votes": 252
+    },
+    "1432": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 111,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 36,
+                "LIBRES DEL SUR": 9,
+                "MPN": 32,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 43
+            }
+        },
+        "total_votes": 256
+    },
+    "1433": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 107,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 10,
+                "MPN": 40,
+                "NUEVA IZQUIERDA": 12,
+                "UNIDAD CIUDADANA": 47
+            }
+        },
+        "total_votes": 264
+    },
+    "1434": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 125,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 19,
+                "LIBRES DEL SUR": 2,
+                "MPN": 22,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 69
+            }
+        },
+        "total_votes": 256
+    },
+    "1435": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 128,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE NEUQUINO": 22,
+                "LIBRES DEL SUR": 6,
+                "MPN": 30,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 53
+            }
+        },
+        "total_votes": 265
+    },
+    "1436": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 101,
+                "FRENTE DE IZQUIERDA": 6,
+                "FRENTE NEUQUINO": 35,
+                "LIBRES DEL SUR": 6,
+                "MPN": 36,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 50
+            }
+        },
+        "total_votes": 243
+    },
+    "1437": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 10,
+                "CAMBIEMOS": 115,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE NEUQUINO": 25,
+                "LIBRES DEL SUR": 5,
+                "MPN": 41,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 45
+            }
+        },
+        "total_votes": 259
+    },
+    "1438": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 109,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 34,
+                "LIBRES DEL SUR": 9,
+                "MPN": 31,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 47
+            }
+        },
+        "total_votes": 252
+    },
+    "1439": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 113,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE NEUQUINO": 20,
+                "LIBRES DEL SUR": 8,
+                "MPN": 33,
+                "NUEVA IZQUIERDA": 9,
+                "UNIDAD CIUDADANA": 34
+            }
+        },
+        "total_votes": 242
+    },
+    "1440": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 104,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 37,
+                "LIBRES DEL SUR": 5,
+                "MPN": 33,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 49
+            }
+        },
+        "total_votes": 249
+    },
+    "1441": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 126,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 11,
+                "MPN": 37,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 37
+            }
+        },
+        "total_votes": 262
+    },
+    "1442": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 11,
+                "CAMBIEMOS": 127,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 17,
+                "LIBRES DEL SUR": 5,
+                "MPN": 25,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 54
+            }
+        },
+        "total_votes": 260
+    },
+    "1443": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 110,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 8,
+                "MPN": 27,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 54
+            }
+        },
+        "total_votes": 245
+    },
+    "1444": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 3,
+                "CAMBIEMOS": 93,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE NEUQUINO": 25,
+                "LIBRES DEL SUR": 12,
+                "MPN": 36,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 47
+            }
+        },
+        "total_votes": 243
+    },
+    "1445": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 125,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE NEUQUINO": 15,
+                "LIBRES DEL SUR": 6,
+                "MPN": 25,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 44
+            }
+        },
+        "total_votes": 240
+    },
+    "1446": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 11,
+                "CAMBIEMOS": 94,
+                "FRENTE DE IZQUIERDA": 32,
+                "FRENTE NEUQUINO": 29,
+                "LIBRES DEL SUR": 11,
+                "MPN": 36,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 53
+            }
+        },
+        "total_votes": 270
+    },
+    "1447": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 7,
+                "CAMBIEMOS": 131,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE NEUQUINO": 23,
+                "LIBRES DEL SUR": 6,
+                "MPN": 27,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 36
+            }
+        },
+        "total_votes": 253
+    },
+    "1448": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 10,
+                "CAMBIEMOS": 127,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 30,
+                "LIBRES DEL SUR": 6,
+                "MPN": 35,
+                "NUEVA IZQUIERDA": 1,
+                "UNIDAD CIUDADANA": 48
+            }
+        },
+        "total_votes": 273
+    },
+    "1449": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 139,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 17,
+                "LIBRES DEL SUR": 9,
+                "MPN": 35,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 30
+            }
+        },
+        "total_votes": 256
+    },
+    "1450": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 8,
+                "CAMBIEMOS": 115,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE NEUQUINO": 26,
+                "LIBRES DEL SUR": 12,
+                "MPN": 34,
+                "NUEVA IZQUIERDA": 6,
+                "UNIDAD CIUDADANA": 38
+            }
+        },
+        "total_votes": 253
+    },
+    "1451": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 77,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 32,
+                "LIBRES DEL SUR": 12,
+                "MPN": 42,
+                "NUEVA IZQUIERDA": 5,
+                "UNIDAD CIUDADANA": 60
+            }
+        },
+        "total_votes": 253
+    },
+    "1452": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 10,
+                "CAMBIEMOS": 105,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE NEUQUINO": 27,
+                "LIBRES DEL SUR": 8,
+                "MPN": 37,
+                "NUEVA IZQUIERDA": 1,
+                "UNIDAD CIUDADANA": 42
+            }
+        },
+        "total_votes": 246
+    },
+    "1453": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 137,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE NEUQUINO": 18,
+                "LIBRES DEL SUR": 4,
+                "MPN": 28,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 46
+            }
+        },
+        "total_votes": 251
+    },
+    "1454": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 23,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 14,
+                "LIBRES DEL SUR": 8,
+                "MPN": 21,
+                "NUEVA IZQUIERDA": 11,
+                "UNIDAD CIUDADANA": 35
+            }
+        },
+        "total_votes": 130
+    },
+    "1455": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 9,
+                "CAMBIEMOS": 101,
+                "FRENTE DE IZQUIERDA": 5,
+                "FRENTE NEUQUINO": 8,
+                "LIBRES DEL SUR": 3,
+                "MPN": 12,
+                "NUEVA IZQUIERDA": 1,
+                "UNIDAD CIUDADANA": 41
+            }
+        },
+        "total_votes": 180
+    },
+    "1456": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 1,
+                "CAMBIEMOS": 2,
+                "FRENTE DE IZQUIERDA": 1,
+                "FRENTE NEUQUINO": 6,
+                "LIBRES DEL SUR": 1,
+                "MPN": 3,
+                "NUEVA IZQUIERDA": 0,
+                "UNIDAD CIUDADANA": 0
+            }
+        },
+        "total_votes": 14
+    },
+    "1457": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 4,
+                "CAMBIEMOS": 48,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE NEUQUINO": 9,
+                "LIBRES DEL SUR": 3,
+                "MPN": 21,
+                "NUEVA IZQUIERDA": 4,
+                "UNIDAD CIUDADANA": 27
+            }
+        },
+        "total_votes": 128
+    },
+    "1458": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 5,
+                "CAMBIEMOS": 64,
+                "FRENTE DE IZQUIERDA": 7,
+                "FRENTE NEUQUINO": 8,
+                "LIBRES DEL SUR": 3,
+                "MPN": 20,
+                "NUEVA IZQUIERDA": 3,
+                "UNIDAD CIUDADANA": 16
+            }
+        },
+        "total_votes": 126
+    },
+    "1459": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 6,
+                "CAMBIEMOS": 28,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE NEUQUINO": 21,
+                "LIBRES DEL SUR": 12,
+                "MPN": 31,
+                "NUEVA IZQUIERDA": 7,
+                "UNIDAD CIUDADANA": 34
+            }
+        },
+        "total_votes": 150
+    },
+    "1461": {
+        "years": {
+            "2017": {
+                "1PAIS FRENTE RENOVADOR": 0,
+                "CAMBIEMOS": 25,
+                "FRENTE DE IZQUIERDA": 3,
+                "FRENTE NEUQUINO": 6,
+                "LIBRES DEL SUR": 3,
+                "MPN": 8,
+                "NUEVA IZQUIERDA": 2,
+                "UNIDAD CIUDADANA": 11
+            }
+        },
+        "total_votes": 58
+    },
+    "1467": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 109,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 31,
+                "LIBRES DEL SUR": 9,
+                "MPN": 44,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 23,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 7,
+                "MPN": 55,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 446
+    },
+    "1468": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 99,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 7,
+                "MPN": 44,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 95,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 4,
+                "MPN": 50,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 436
+    },
+    "1469": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 55,
+                "LIBRES DEL SUR": 9,
+                "MPN": 45,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 73,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 51,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 3,
+                "MPN": 49,
+                "SOCIALISTA": 12
+            }
+        },
+        "total_votes": 447
+    },
+    "1470": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 95,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 46,
+                "LIBRES DEL SUR": 6,
+                "MPN": 32,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 80,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 38,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 11,
+                "MPN": 48,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 419
+    },
+    "1471": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 115,
+                "COALICION CIVICA - ARI": 17,
+                "FRENTE DE IZQUIERDA": 23,
+                "FRENTE DE TODOS": 36,
+                "LIBRES DEL SUR": 5,
+                "MPN": 29,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 23,
+                "FRENTE DE TODOS": 26,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 8,
+                "MPN": 40,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 438
+    },
+    "1472": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 22,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 40,
+                "LIBRES DEL SUR": 7,
+                "MPN": 44,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 75,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 36,
+                "MOVIMIENTO AL SOCIALISMO": 7,
+                "LIBRES DEL SUR": 9,
+                "MPN": 53,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 441
+    },
+    "1473": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 90,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 5,
+                "MPN": 47,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 85,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 31,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 10,
+                "MPN": 63,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 440
+    },
+    "1474": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 104,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 42,
+                "LIBRES DEL SUR": 7,
+                "MPN": 33,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 88,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 8,
+                "MPN": 55,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 444
+    },
+    "1475": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 77,
+                "COALICION CIVICA - ARI": 18,
+                "FRENTE DE IZQUIERDA": 24,
+                "FRENTE DE TODOS": 57,
+                "LIBRES DEL SUR": 7,
+                "MPN": 32,
+                "SOCIALISTA": 11
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 64,
+                "COALICION CIVICA - ARI": 20,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 48,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 7,
+                "MPN": 48,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 438
+    },
+    "1476": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 65,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 14,
+                "MPN": 62,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 61,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 12,
+                "MPN": 62,
+                "SOCIALISTA": 13
+            }
+        },
+        "total_votes": 435
+    },
+    "1477": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 102,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 39,
+                "LIBRES DEL SUR": 11,
+                "MPN": 32,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 101,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 8,
+                "MPN": 36,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 423
+    },
+    "1478": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 69,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 7,
+                "MPN": 70,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 55,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 11,
+                "MPN": 77,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 440
+    },
+    "1479": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 26,
+                "FRENTE DE TODOS": 41,
+                "LIBRES DEL SUR": 9,
+                "MPN": 34,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 73,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 23,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 11,
+                "MPN": 50,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 430
+    },
+    "1480": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 6,
+                "MPN": 47,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 73,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 45,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 3,
+                "MPN": 46,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 423
+    },
+    "1481": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 111,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 31,
+                "LIBRES DEL SUR": 12,
+                "MPN": 37,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 82,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 26,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 14,
+                "MPN": 46,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 432
+    },
+    "1482": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 53,
+                "LIBRES DEL SUR": 4,
+                "MPN": 41,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 42,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 5,
+                "MPN": 39,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 433
+    },
+    "1483": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 95,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 55,
+                "LIBRES DEL SUR": 8,
+                "MPN": 38,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 81,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 49,
+                "MOVIMIENTO AL SOCIALISMO": 7,
+                "LIBRES DEL SUR": 10,
+                "MPN": 57,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 472
+    },
+    "1484": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 96,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE DE TODOS": 41,
+                "LIBRES DEL SUR": 13,
+                "MPN": 35,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 77,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 8,
+                "FRENTE DE TODOS": 30,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 7,
+                "MPN": 52,
+                "SOCIALISTA": 9
+            }
+        },
+        "total_votes": 417
+    },
+    "1485": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 96,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 31,
+                "LIBRES DEL SUR": 12,
+                "MPN": 51,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 7,
+                "MPN": 62,
+                "SOCIALISTA": 3
+            }
+        },
+        "total_votes": 442
+    },
+    "1486": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 92,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 26,
+                "FRENTE DE TODOS": 37,
+                "LIBRES DEL SUR": 9,
+                "MPN": 37,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 32,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 9,
+                "MPN": 51,
+                "SOCIALISTA": 50
+            }
+        },
+        "total_votes": 481
+    },
+    "1487": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 94,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 31,
+                "LIBRES DEL SUR": 9,
+                "MPN": 56,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 25,
+                "FRENTE DE TODOS": 24,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 7,
+                "MPN": 69,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 450
+    },
+    "1488": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 47,
+                "LIBRES DEL SUR": 6,
+                "MPN": 47,
+                "SOCIALISTA": 13
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 4,
+                "MPN": 61,
+                "SOCIALISTA": 11
+            }
+        },
+        "total_votes": 441
+    },
+    "1489": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 92,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 8,
+                "MPN": 46,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 84,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 7,
+                "MPN": 51,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 426
+    },
+    "1490": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 90,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 56,
+                "LIBRES DEL SUR": 8,
+                "MPN": 42,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 69,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 8,
+                "MPN": 54,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 431
+    },
+    "1491": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 106,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 45,
+                "LIBRES DEL SUR": 4,
+                "MPN": 37,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 98,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 6,
+                "MPN": 43,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 454
+    },
+    "1492": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 88,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 55,
+                "LIBRES DEL SUR": 8,
+                "MPN": 45,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 68,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 53,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 6,
+                "MPN": 60,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 458
+    },
+    "1493": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 75,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 55,
+                "LIBRES DEL SUR": 13,
+                "MPN": 48,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 62,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 36,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 10,
+                "MPN": 57,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 437
+    },
+    "1494": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 90,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 39,
+                "LIBRES DEL SUR": 9,
+                "MPN": 54,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 63,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 10,
+                "MPN": 66,
+                "SOCIALISTA": 11
+            }
+        },
+        "total_votes": 444
+    },
+    "1495": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 7,
+                "MPN": 36,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 81,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 41,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 6,
+                "MPN": 50,
+                "SOCIALISTA": 3
+            }
+        },
+        "total_votes": 414
+    },
+    "1496": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 46,
+                "LIBRES DEL SUR": 12,
+                "MPN": 39,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 216
+    },
+    "1497": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 85,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 9,
+                "MPN": 43,
+                "SOCIALISTA": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 68,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 10,
+                "MPN": 55,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 433
+    },
+    "1498": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 8,
+                "MPN": 45,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 39,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 8,
+                "MPN": 63,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 445
+    },
+    "1499": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 17,
+                "FRENTE DE IZQUIERDA": 24,
+                "FRENTE DE TODOS": 40,
+                "LIBRES DEL SUR": 11,
+                "MPN": 42,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 26,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 11,
+                "MPN": 46,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 422
+    },
+    "1500": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 92,
+                "COALICION CIVICA - ARI": 17,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 42,
+                "LIBRES DEL SUR": 9,
+                "MPN": 53,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE DE TODOS": 33,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 10,
+                "MPN": 54,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 441
+    },
+    "1501": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 118,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE DE TODOS": 36,
+                "LIBRES DEL SUR": 9,
+                "MPN": 36,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 5,
+                "MPN": 45,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 434
+    },
+    "1502": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 127,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 39,
+                "LIBRES DEL SUR": 0,
+                "MPN": 30,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 96,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 2,
+                "MPN": 43,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 435
+    },
+    "1503": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 50,
+                "LIBRES DEL SUR": 9,
+                "MPN": 51,
+                "SOCIALISTA": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 68,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 8,
+                "MPN": 52,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 444
+    },
+    "1504": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 34,
+                "LIBRES DEL SUR": 13,
+                "MPN": 52,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 36,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 7,
+                "MPN": 63,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 427
+    },
+    "1505": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 66,
+                "LIBRES DEL SUR": 10,
+                "MPN": 51,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 240
+    },
+    "1506": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE DE TODOS": 42,
+                "LIBRES DEL SUR": 7,
+                "MPN": 46,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 79,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 31,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 2,
+                "MPN": 65,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 424
+    },
+    "1507": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 108,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 26,
+                "FRENTE DE TODOS": 37,
+                "LIBRES DEL SUR": 8,
+                "MPN": 46,
+                "SOCIALISTA": 11
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 30,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 9,
+                "MPN": 69,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 475
+    },
+    "1508": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 47,
+                "LIBRES DEL SUR": 16,
+                "MPN": 53,
+                "SOCIALISTA": 2
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 72,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 8,
+                "MPN": 63,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 442
+    },
+    "1509": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 82,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 17,
+                "MPN": 47,
+                "SOCIALISTA": 13
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 82,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 7,
+                "MPN": 53,
+                "SOCIALISTA": 9
+            }
+        },
+        "total_votes": 454
+    },
+    "1510": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 96,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 43,
+                "LIBRES DEL SUR": 9,
+                "MPN": 47,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 81,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 39,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 9,
+                "MPN": 65,
+                "SOCIALISTA": 9
+            }
+        },
+        "total_votes": 463
+    },
+    "1511": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 109,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 23,
+                "FRENTE DE TODOS": 27,
+                "LIBRES DEL SUR": 5,
+                "MPN": 51,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 75,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 15,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 9,
+                "MPN": 63,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 444
+    },
+    "1512": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 104,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 48,
+                "LIBRES DEL SUR": 8,
+                "MPN": 57,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 88,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 5,
+                "MPN": 73,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 488
+    },
+    "1513": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 74,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 41,
+                "LIBRES DEL SUR": 18,
+                "MPN": 58,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 65,
+                "COALICION CIVICA - ARI": 17,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 28,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 10,
+                "MPN": 70,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 435
+    },
+    "1514": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 80,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 51,
+                "LIBRES DEL SUR": 6,
+                "MPN": 70,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 6,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 46,
+                "MOVIMIENTO AL SOCIALISMO": 7,
+                "LIBRES DEL SUR": 12,
+                "MPN": 65,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 481
+    },
+    "1515": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 39,
+                "LIBRES DEL SUR": 10,
+                "MPN": 81,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 65,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 31,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 12,
+                "MPN": 89,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 468
+    },
+    "1516": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 89,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 37,
+                "LIBRES DEL SUR": 8,
+                "MPN": 48,
+                "SOCIALISTA": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 79,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 29,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 13,
+                "MPN": 60,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 458
+    },
+    "1517": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 72,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 27,
+                "FRENTE DE TODOS": 55,
+                "LIBRES DEL SUR": 8,
+                "MPN": 50,
+                "SOCIALISTA": 12
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 60,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 25,
+                "FRENTE DE TODOS": 49,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 8,
+                "MPN": 55,
+                "SOCIALISTA": 12
+            }
+        },
+        "total_votes": 462
+    },
+    "1518": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 96,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 8,
+                "MPN": 53,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 81,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 5,
+                "MPN": 57,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 442
+    },
+    "1519": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 100,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 40,
+                "LIBRES DEL SUR": 8,
+                "MPN": 41,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 8,
+                "COALICION CIVICA - ARI": 6,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 45,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 8,
+                "MPN": 59,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 367
+    },
+    "1520": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 68,
+                "COALICION CIVICA - ARI": 19,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 43,
+                "LIBRES DEL SUR": 16,
+                "MPN": 58,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 49,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 36,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 12,
+                "MPN": 82,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 447
+    },
+    "1521": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 112,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 4,
+                "MPN": 49,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 89,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 39,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 4,
+                "MPN": 65,
+                "SOCIALISTA": 3
+            }
+        },
+        "total_votes": 472
+    },
+    "1522": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 82,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 37,
+                "LIBRES DEL SUR": 8,
+                "MPN": 75,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 61,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 14,
+                "MPN": 79,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 459
+    },
+    "1523": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 89,
+                "COALICION CIVICA - ARI": 26,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 41,
+                "LIBRES DEL SUR": 13,
+                "MPN": 66,
+                "SOCIALISTA": 11
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 74,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 10,
+                "MPN": 63,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 500
+    },
+    "1524": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 46,
+                "LIBRES DEL SUR": 9,
+                "MPN": 45,
+                "SOCIALISTA": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 4,
+                "MPN": 59,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 434
+    },
+    "1525": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 44,
+                "LIBRES DEL SUR": 8,
+                "MPN": 53,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 84,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 33,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 12,
+                "MPN": 60,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 465
+    },
+    "1526": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 30,
+                "LIBRES DEL SUR": 7,
+                "MPN": 54,
+                "SOCIALISTA": 12
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 71,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 10,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 9,
+                "MPN": 60,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 430
+    },
+    "1527": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 50,
+                "LIBRES DEL SUR": 10,
+                "MPN": 49,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 4,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 38,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 8,
+                "MPN": 62,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 436
+    },
+    "1528": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 82,
+                "COALICION CIVICA - ARI": 20,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 34,
+                "LIBRES DEL SUR": 5,
+                "MPN": 67,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 19,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 28,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 8,
+                "MPN": 73,
+                "SOCIALISTA": 9
+            }
+        },
+        "total_votes": 455
+    },
+    "1529": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 95,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 33,
+                "LIBRES DEL SUR": 6,
+                "MPN": 64,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 75,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 27,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 4,
+                "MPN": 72,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 449
+    },
+    "1530": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 50,
+                "LIBRES DEL SUR": 13,
+                "MPN": 62,
+                "SOCIALISTA": 12
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 59,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 48,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 16,
+                "MPN": 68,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 472
+    },
+    "1531": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 21,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 45,
+                "LIBRES DEL SUR": 8,
+                "MPN": 43,
+                "SOCIALISTA": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 79,
+                "COALICION CIVICA - ARI": 23,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 10,
+                "MPN": 47,
+                "SOCIALISTA": 9
+            }
+        },
+        "total_votes": 456
+    },
+    "1532": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 92,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 23,
+                "FRENTE DE TODOS": 45,
+                "LIBRES DEL SUR": 7,
+                "MPN": 52,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 5,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 42,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 8,
+                "MPN": 58,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 461
+    },
+    "1533": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 21,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 48,
+                "LIBRES DEL SUR": 10,
+                "MPN": 58,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 67,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 4,
+                "MPN": 71,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 453
+    },
+    "1534": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 89,
+                "COALICION CIVICA - ARI": 20,
+                "FRENTE DE IZQUIERDA": 22,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 12,
+                "MPN": 44,
+                "SOCIALISTA": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 73,
+                "COALICION CIVICA - ARI": 20,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 44,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 12,
+                "MPN": 60,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 459
+    },
+    "1535": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 46,
+                "LIBRES DEL SUR": 11,
+                "MPN": 56,
+                "SOCIALISTA": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 71,
+                "COALICION CIVICA - ARI": 6,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 33,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 12,
+                "MPN": 77,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 472
+    },
+    "1536": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 62,
+                "COALICION CIVICA - ARI": 27,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 41,
+                "LIBRES DEL SUR": 4,
+                "MPN": 64,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 63,
+                "COALICION CIVICA - ARI": 21,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 32,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 12,
+                "MPN": 62,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 433
+    },
+    "1537": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 94,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 25,
+                "FRENTE DE TODOS": 42,
+                "LIBRES DEL SUR": 9,
+                "MPN": 54,
+                "SOCIALISTA": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 67,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 37,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 11,
+                "MPN": 76,
+                "SOCIALISTA": 2
+            }
+        },
+        "total_votes": 474
+    },
+    "1538": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 55,
+                "COALICION CIVICA - ARI": 19,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 16,
+                "MPN": 59,
+                "SOCIALISTA": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 47,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 11,
+                "MPN": 80,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 428
+    },
+    "1539": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 80,
+                "COALICION CIVICA - ARI": 19,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 13,
+                "MPN": 47,
+                "SOCIALISTA": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 7,
+                "MPN": 71,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 453
+    },
+    "1540": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 97,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 26,
+                "FRENTE DE TODOS": 35,
+                "LIBRES DEL SUR": 8,
+                "MPN": 40,
+                "SOCIALISTA": 4
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 60,
+                "JUNTOS POR EL CAMBIO": 97,
+                "UNION POR LA PATRIA": 35,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 80,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 11,
+                "MPN": 52,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 653
+    },
+    "1541": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 9,
+                "MPN": 50,
+                "SOCIALISTA": 5
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 72,
+                "JUNTOS POR EL CAMBIO": 84,
+                "UNION POR LA PATRIA": 44,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 65,
+                "COALICION CIVICA - ARI": 3,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 44,
+                "MOVIMIENTO AL SOCIALISMO": 6,
+                "LIBRES DEL SUR": 8,
+                "MPN": 58,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 664
+    },
+    "1542": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 33,
+                "LIBRES DEL SUR": 10,
+                "MPN": 59,
+                "SOCIALISTA": 10
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 71,
+                "JUNTOS POR EL CAMBIO": 77,
+                "UNION POR LA PATRIA": 56,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 11,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 68,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 19,
+                "FRENTE DE TODOS": 35,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 5,
+                "MPN": 62,
+                "SOCIALISTA": 13
+            }
+        },
+        "total_votes": 667
+    },
+    "1543": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 10,
+                "MPN": 51,
+                "SOCIALISTA": 8
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 80,
+                "JUNTOS POR EL CAMBIO": 60,
+                "UNION POR LA PATRIA": 56,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 69,
+                "COALICION CIVICA - ARI": 9,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 36,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 12,
+                "MPN": 57,
+                "SOCIALISTA": 8
+            }
+        },
+        "total_votes": 652
+    },
+    "1544": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 101,
+                "COALICION CIVICA - ARI": 21,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 33,
+                "LIBRES DEL SUR": 5,
+                "MPN": 46,
+                "SOCIALISTA": 9
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 73,
+                "UNION POR LA PATRIA": 57,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 21,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 25,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 5,
+                "MPN": 52,
+                "SOCIALISTA": 12
+            }
+        },
+        "total_votes": 685
+    },
+    "1545": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 67,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 31,
+                "FRENTE DE TODOS": 35,
+                "LIBRES DEL SUR": 13,
+                "MPN": 72,
+                "SOCIALISTA": 4
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 49,
+                "JUNTOS POR EL CAMBIO": 81,
+                "UNION POR LA PATRIA": 64,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 64,
+                "COALICION CIVICA - ARI": 10,
+                "FRENTE DE IZQUIERDA": 26,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 16,
+                "MPN": 72,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 690
+    },
+    "1546": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 93,
+                "COALICION CIVICA - ARI": 20,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 40,
+                "LIBRES DEL SUR": 9,
+                "MPN": 54,
+                "SOCIALISTA": 3
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 78,
+                "JUNTOS POR EL CAMBIO": 74,
+                "UNION POR LA PATRIA": 50,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 14,
+                "FRENTE DE TODOS": 30,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 10,
+                "MPN": 56,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 669
+    },
+    "1547": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 42,
+                "LIBRES DEL SUR": 7,
+                "MPN": 70,
+                "SOCIALISTA": 6
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 45,
+                "UNION POR LA PATRIA": 68,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 40,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 6,
+                "MPN": 71,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 672
+    },
+    "1548": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 106,
+                "COALICION CIVICA - ARI": 14,
+                "FRENTE DE IZQUIERDA": 24,
+                "FRENTE DE TODOS": 35,
+                "LIBRES DEL SUR": 11,
+                "MPN": 51,
+                "SOCIALISTA": 4
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 61,
+                "JUNTOS POR EL CAMBIO": 58,
+                "UNION POR LA PATRIA": 76,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 19
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 91,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 18,
+                "FRENTE DE TODOS": 29,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 13,
+                "MPN": 54,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 705
+    },
+    "1549": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 99,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 24,
+                "FRENTE DE TODOS": 38,
+                "LIBRES DEL SUR": 6,
+                "MPN": 45,
+                "SOCIALISTA": 11
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 66,
+                "JUNTOS POR EL CAMBIO": 86,
+                "UNION POR LA PATRIA": 43,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 28,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 83,
+                "COALICION CIVICA - ARI": 16,
+                "FRENTE DE IZQUIERDA": 21,
+                "FRENTE DE TODOS": 33,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 8,
+                "MPN": 53,
+                "SOCIALISTA": 10
+            }
+        },
+        "total_votes": 693
+    },
+    "1550": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 78,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 24,
+                "FRENTE DE TODOS": 43,
+                "LIBRES DEL SUR": 13,
+                "MPN": 56,
+                "SOCIALISTA": 3
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 64,
+                "JUNTOS POR EL CAMBIO": 80,
+                "UNION POR LA PATRIA": 49,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 4
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 56,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 45,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 12,
+                "MPN": 69,
+                "SOCIALISTA": 3
+            }
+        },
+        "total_votes": 656
+    },
+    "1551": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 70,
+                "COALICION CIVICA - ARI": 15,
+                "FRENTE DE IZQUIERDA": 15,
+                "FRENTE DE TODOS": 50,
+                "LIBRES DEL SUR": 10,
+                "MPN": 65,
+                "SOCIALISTA": 1
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 72,
+                "JUNTOS POR EL CAMBIO": 67,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 60,
+                "COALICION CIVICA - ARI": 6,
+                "FRENTE DE IZQUIERDA": 16,
+                "FRENTE DE TODOS": 45,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 18,
+                "MPN": 75,
+                "SOCIALISTA": 4
+            }
+        },
+        "total_votes": 667
+    },
+    "1552": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 87,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 20,
+                "FRENTE DE TODOS": 32,
+                "LIBRES DEL SUR": 4,
+                "MPN": 58,
+                "SOCIALISTA": 9
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 69,
+                "JUNTOS POR EL CAMBIO": 53,
+                "UNION POR LA PATRIA": 66,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 76,
+                "COALICION CIVICA - ARI": 12,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 34,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 7,
+                "MPN": 59,
+                "SOCIALISTA": 3
+            }
+        },
+        "total_votes": 649
+    },
+    "1553": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 98,
+                "COALICION CIVICA - ARI": 22,
+                "FRENTE DE IZQUIERDA": 17,
+                "FRENTE DE TODOS": 32,
+                "LIBRES DEL SUR": 9,
+                "MPN": 48,
+                "SOCIALISTA": 4
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 61,
+                "JUNTOS POR EL CAMBIO": 77,
+                "UNION POR LA PATRIA": 50,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 86,
+                "COALICION CIVICA - ARI": 19,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE DE TODOS": 31,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 10,
+                "MPN": 59,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 672
+    },
+    "1554": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 62,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 7,
+                "FRENTE DE TODOS": 31,
+                "LIBRES DEL SUR": 6,
+                "MPN": 19,
+                "SOCIALISTA": 6
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 71,
+                "UNION POR LA PATRIA": 62,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 10,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 49,
+                "COALICION CIVICA - ARI": 11,
+                "FRENTE DE IZQUIERDA": 7,
+                "FRENTE DE TODOS": 26,
+                "MOVIMIENTO AL SOCIALISMO": 3,
+                "LIBRES DEL SUR": 4,
+                "MPN": 25,
+                "SOCIALISTA": 5
+            }
+        },
+        "total_votes": 483
+    },
+    "1555": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 65,
+                "COALICION CIVICA - ARI": 13,
+                "FRENTE DE IZQUIERDA": 8,
+                "FRENTE DE TODOS": 26,
+                "LIBRES DEL SUR": 3,
+                "MPN": 28,
+                "SOCIALISTA": 1
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 71,
+                "JUNTOS POR EL CAMBIO": 83,
+                "UNION POR LA PATRIA": 52,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 57,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 6,
+                "FRENTE DE TODOS": 19,
+                "MOVIMIENTO AL SOCIALISMO": 2,
+                "LIBRES DEL SUR": 1,
+                "MPN": 31,
+                "SOCIALISTA": 1
+            }
+        },
+        "total_votes": 497
+    },
+    "1556": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 27,
+                "COALICION CIVICA - ARI": 1,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 69,
+                "LIBRES DEL SUR": 12,
+                "MPN": 38,
+                "SOCIALISTA": 3
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 62,
+                "JUNTOS POR EL CAMBIO": 62,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 29,
+                "COALICION CIVICA - ARI": 0,
+                "FRENTE DE IZQUIERDA": 12,
+                "FRENTE DE TODOS": 58,
+                "MOVIMIENTO AL SOCIALISMO": 4,
+                "LIBRES DEL SUR": 11,
+                "MPN": 43,
+                "SOCIALISTA": 1
+            }
+        },
+        "total_votes": 528
+    },
+    "1557": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 4,
+                "COALICION CIVICA - ARI": 0,
+                "FRENTE DE IZQUIERDA": 2,
+                "FRENTE DE TODOS": 1,
+                "LIBRES DEL SUR": 1,
+                "MPN": 3,
+                "SOCIALISTA": 0
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 66,
+                "JUNTOS POR EL CAMBIO": 65,
+                "UNION POR LA PATRIA": 54,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 2,
+                "COALICION CIVICA - ARI": 1,
+                "FRENTE DE IZQUIERDA": 3,
+                "FRENTE DE TODOS": 1,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 0,
+                "MPN": 1,
+                "SOCIALISTA": 0
+            }
+        },
+        "total_votes": 224
+    },
+    "1558": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 59,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 52,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 23,
+                "COALICION CIVICA - ARI": 7,
+                "FRENTE DE IZQUIERDA": 11,
+                "FRENTE DE TODOS": 30,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 7,
+                "MPN": 43,
+                "SOCIALISTA": 7
+            }
+        },
+        "total_votes": 325
+    },
+    "1559": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 25,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 25,
+                "FRENTE DE TODOS": 49,
+                "LIBRES DEL SUR": 11,
+                "MPN": 40,
+                "SOCIALISTA": 2
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 62,
+                "JUNTOS POR EL CAMBIO": 88,
+                "UNION POR LA PATRIA": 31,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 0
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 15,
+                "COALICION CIVICA - ARI": 4,
+                "FRENTE DE IZQUIERDA": 13,
+                "FRENTE DE TODOS": 46,
+                "MOVIMIENTO AL SOCIALISMO": 5,
+                "LIBRES DEL SUR": 11,
+                "MPN": 53,
+                "SOCIALISTA": 6
+            }
+        },
+        "total_votes": 516
+    },
+    "1560": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 79,
+                "UNION POR LA PATRIA": 47,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 19,
+                "COALICION CIVICA - ARI": 0,
+                "FRENTE DE IZQUIERDA": 1,
+                "FRENTE DE TODOS": 6,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 0,
+                "MPN": 4,
+                "SOCIALISTA": 0
+            }
+        },
+        "total_votes": 262
+    },
+    "1561": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 90,
+                "COALICION CIVICA - ARI": 17,
+                "FRENTE DE IZQUIERDA": 6,
+                "FRENTE DE TODOS": 28,
+                "LIBRES DEL SUR": 1,
+                "MPN": 29,
+                "SOCIALISTA": 3
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 78,
+                "JUNTOS POR EL CAMBIO": 75,
+                "UNION POR LA PATRIA": 48,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 73,
+                "COALICION CIVICA - ARI": 8,
+                "FRENTE DE IZQUIERDA": 9,
+                "FRENTE DE TODOS": 21,
+                "MOVIMIENTO AL SOCIALISMO": 1,
+                "LIBRES DEL SUR": 1,
+                "MPN": 40,
+                "SOCIALISTA": 0
+            }
+        },
+        "total_votes": 552
+    },
+    "1562": {
+        "years": {
+            "2021": {
+                "CAMBIA NEUQUAN": 29,
+                "COALICION CIVICA - ARI": 6,
+                "FRENTE DE IZQUIERDA": 1,
+                "FRENTE DE TODOS": 3,
+                "LIBRES DEL SUR": 1,
+                "MPN": 7,
+                "SOCIALISTA": 0
+            },
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 72,
+                "JUNTOS POR EL CAMBIO": 65,
+                "UNION POR LA PATRIA": 53,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 11
+            },
+            "PASO 2021": {
+                "CAMBIA NEUQUAN": 23,
+                "COALICION CIVICA - ARI": 5,
+                "FRENTE DE IZQUIERDA": 2,
+                "FRENTE DE TODOS": 4,
+                "MOVIMIENTO AL SOCIALISMO": 0,
+                "LIBRES DEL SUR": 0,
+                "MPN": 6,
+                "SOCIALISTA": 0
+            }
+        },
+        "total_votes": 305
+    },
+    "1563": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 83,
+                "JUNTOS POR EL CAMBIO": 66,
+                "UNION POR LA PATRIA": 60,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 4
+            }
+        },
+        "total_votes": 228
+    },
+    "1564": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 62,
+                "JUNTOS POR EL CAMBIO": 76,
+                "UNION POR LA PATRIA": 48,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 2
+            }
+        },
+        "total_votes": 209
+    },
+    "1565": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 76,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 59,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 222
+    },
+    "1566": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 62,
+                "JUNTOS POR EL CAMBIO": 79,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 218
+    },
+    "1567": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 85,
+                "JUNTOS POR EL CAMBIO": 69,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 236
+    },
+    "1568": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 84,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 66,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 237
+    },
+    "1569": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 64,
+                "JUNTOS POR EL CAMBIO": 78,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            }
+        },
+        "total_votes": 219
+    },
+    "1570": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 57,
+                "JUNTOS POR EL CAMBIO": 58,
+                "UNION POR LA PATRIA": 54,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 26,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 198
+    },
+    "1571": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 67,
+                "UNION POR LA PATRIA": 66,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 223
+    },
+    "1572": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 81,
+                "UNION POR LA PATRIA": 49,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 234
+    },
+    "1573": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 63,
+                "JUNTOS POR EL CAMBIO": 71,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 214
+    },
+    "1574": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 72,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 218
+    },
+    "1575": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 65,
+                "JUNTOS POR EL CAMBIO": 93,
+                "UNION POR LA PATRIA": 41,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 225
+    },
+    "1576": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 65,
+                "JUNTOS POR EL CAMBIO": 91,
+                "UNION POR LA PATRIA": 44,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 227
+    },
+    "1577": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 60,
+                "UNION POR LA PATRIA": 66,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 224
+    },
+    "1578": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 74,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 51,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 209
+    },
+    "1579": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 78,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 79,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 242
+    },
+    "1580": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 64,
+                "UNION POR LA PATRIA": 45,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 10,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 204
+    },
+    "1581": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 91,
+                "JUNTOS POR EL CAMBIO": 78,
+                "UNION POR LA PATRIA": 46,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 11,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 233
+    },
+    "1582": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 95,
+                "JUNTOS POR EL CAMBIO": 55,
+                "UNION POR LA PATRIA": 50,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 223
+    },
+    "1583": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 96,
+                "JUNTOS POR EL CAMBIO": 54,
+                "UNION POR LA PATRIA": 60,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 11,
+                "MOVIMIENTO POPULAR NEUQUINO": 11
+            }
+        },
+        "total_votes": 232
+    },
+    "1584": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 88,
+                "JUNTOS POR EL CAMBIO": 76,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 242
+    },
+    "1585": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 93,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 48,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 234
+    },
+    "1586": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 86,
+                "JUNTOS POR EL CAMBIO": 79,
+                "UNION POR LA PATRIA": 51,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 240
+    },
+    "1587": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 85,
+                "JUNTOS POR EL CAMBIO": 69,
+                "UNION POR LA PATRIA": 53,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 233
+    },
+    "1588": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 88,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 54,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 236
+    },
+    "1589": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 74,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 62,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 222
+    },
+    "1590": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 71,
+                "JUNTOS POR EL CAMBIO": 74,
+                "UNION POR LA PATRIA": 41,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            }
+        },
+        "total_votes": 213
+    },
+    "1591": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 67,
+                "JUNTOS POR EL CAMBIO": 66,
+                "UNION POR LA PATRIA": 73,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 231
+    },
+    "1592": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 96,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 43,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 227
+    },
+    "1593": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 84,
+                "JUNTOS POR EL CAMBIO": 81,
+                "UNION POR LA PATRIA": 47,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 0
+            }
+        },
+        "total_votes": 231
+    },
+    "1594": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 81,
+                "JUNTOS POR EL CAMBIO": 65,
+                "UNION POR LA PATRIA": 63,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 4
+            }
+        },
+        "total_votes": 228
+    },
+    "1595": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 59,
+                "UNION POR LA PATRIA": 65,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 223
+    },
+    "1596": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 67,
+                "JUNTOS POR EL CAMBIO": 81,
+                "UNION POR LA PATRIA": 66,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 13
+            }
+        },
+        "total_votes": 240
+    },
+    "1597": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 91,
+                "JUNTOS POR EL CAMBIO": 54,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            }
+        },
+        "total_votes": 220
+    },
+    "1598": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 89,
+                "JUNTOS POR EL CAMBIO": 93,
+                "UNION POR LA PATRIA": 48,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 259
+    },
+    "1599": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 75,
+                "JUNTOS POR EL CAMBIO": 78,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 8,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 227
+    },
+    "1600": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 92,
+                "JUNTOS POR EL CAMBIO": 59,
+                "UNION POR LA PATRIA": 57,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 0
+            }
+        },
+        "total_votes": 221
+    },
+    "1601": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 89,
+                "JUNTOS POR EL CAMBIO": 71,
+                "UNION POR LA PATRIA": 51,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 10,
+                "MOVIMIENTO POPULAR NEUQUINO": 15
+            }
+        },
+        "total_votes": 236
+    },
+    "1602": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 84,
+                "JUNTOS POR EL CAMBIO": 56,
+                "UNION POR LA PATRIA": 52,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 222
+    },
+    "1603": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 85,
+                "JUNTOS POR EL CAMBIO": 58,
+                "UNION POR LA PATRIA": 56,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 11
+            }
+        },
+        "total_votes": 229
+    },
+    "1604": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 76,
+                "JUNTOS POR EL CAMBIO": 65,
+                "UNION POR LA PATRIA": 42,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 209
+    },
+    "1605": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 58,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 25,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 223
+    },
+    "1606": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 74,
+                "JUNTOS POR EL CAMBIO": 50,
+                "UNION POR LA PATRIA": 68,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 12
+            }
+        },
+        "total_votes": 227
+    },
+    "1607": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 75,
+                "JUNTOS POR EL CAMBIO": 66,
+                "UNION POR LA PATRIA": 67,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 22,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 233
+    },
+    "1608": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 87,
+                "JUNTOS POR EL CAMBIO": 68,
+                "UNION POR LA PATRIA": 57,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 231
+    },
+    "1609": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 93,
+                "JUNTOS POR EL CAMBIO": 57,
+                "UNION POR LA PATRIA": 61,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 10,
+                "MOVIMIENTO POPULAR NEUQUINO": 7
+            }
+        },
+        "total_votes": 228
+    },
+    "1610": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 89,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 59,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 237
+    },
+    "1611": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 75,
+                "JUNTOS POR EL CAMBIO": 59,
+                "UNION POR LA PATRIA": 67,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 19,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 230
+    },
+    "1612": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 85,
+                "JUNTOS POR EL CAMBIO": 74,
+                "UNION POR LA PATRIA": 43,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 7,
+                "MOVIMIENTO POPULAR NEUQUINO": 10
+            }
+        },
+        "total_votes": 219
+    },
+    "1613": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 92,
+                "JUNTOS POR EL CAMBIO": 69,
+                "UNION POR LA PATRIA": 54,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 17,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 241
+    },
+    "1614": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 70,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 59,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 215
+    },
+    "1615": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 72,
+                "JUNTOS POR EL CAMBIO": 65,
+                "UNION POR LA PATRIA": 47,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 15
+            }
+        },
+        "total_votes": 217
+    },
+    "1616": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 71,
+                "JUNTOS POR EL CAMBIO": 77,
+                "UNION POR LA PATRIA": 56,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            }
+        },
+        "total_votes": 223
+    },
+    "1617": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 76,
+                "JUNTOS POR EL CAMBIO": 45,
+                "UNION POR LA PATRIA": 70,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 12,
+                "MOVIMIENTO POPULAR NEUQUINO": 11
+            }
+        },
+        "total_votes": 214
+    },
+    "1618": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 87,
+                "JUNTOS POR EL CAMBIO": 54,
+                "UNION POR LA PATRIA": 59,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 13,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 216
+    },
+    "1619": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 59,
+                "UNION POR LA PATRIA": 69,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 9
+            }
+        },
+        "total_votes": 231
+    },
+    "1620": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 79,
+                "JUNTOS POR EL CAMBIO": 83,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 5
+            }
+        },
+        "total_votes": 238
+    },
+    "1621": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 91,
+                "JUNTOS POR EL CAMBIO": 59,
+                "UNION POR LA PATRIA": 46,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 21,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 225
+    },
+    "1622": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 97,
+                "JUNTOS POR EL CAMBIO": 63,
+                "UNION POR LA PATRIA": 62,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 16,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 244
+    },
+    "1623": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 78,
+                "JUNTOS POR EL CAMBIO": 74,
+                "UNION POR LA PATRIA": 55,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 15,
+                "MOVIMIENTO POPULAR NEUQUINO": 12
+            }
+        },
+        "total_votes": 234
+    },
+    "1624": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 0,
+                "JUNTOS POR EL CAMBIO": 0,
+                "UNION POR LA PATRIA": 0,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 0,
+                "MOVIMIENTO POPULAR NEUQUINO": 0
+            }
+        },
+        "total_votes": 0
+    },
+    "1625": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 68,
+                "JUNTOS POR EL CAMBIO": 76,
+                "UNION POR LA PATRIA": 54,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 12
+            }
+        },
+        "total_votes": 233
+    },
+    "1626": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 75,
+                "JUNTOS POR EL CAMBIO": 85,
+                "UNION POR LA PATRIA": 42,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 23,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 233
+    },
+    "1627": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 85,
+                "JUNTOS POR EL CAMBIO": 56,
+                "UNION POR LA PATRIA": 62,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 6
+            }
+        },
+        "total_votes": 223
+    },
+    "1628": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 86,
+                "JUNTOS POR EL CAMBIO": 56,
+                "UNION POR LA PATRIA": 60,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 6,
+                "MOVIMIENTO POPULAR NEUQUINO": 15
+            }
+        },
+        "total_votes": 223
+    },
+    "1629": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 106,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 49,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 11,
+                "MOVIMIENTO POPULAR NEUQUINO": 8
+            }
+        },
+        "total_votes": 235
+    },
+    "1630": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 76,
+                "JUNTOS POR EL CAMBIO": 79,
+                "UNION POR LA PATRIA": 44,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 20,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 222
+    },
+    "1631": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 58,
+                "JUNTOS POR EL CAMBIO": 61,
+                "UNION POR LA PATRIA": 50,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 18,
+                "MOVIMIENTO POPULAR NEUQUINO": 3
+            }
+        },
+        "total_votes": 190
+    },
+    "1632": {
+        "years": {
+            "2023": {
+                "ARRIBA NEUQUEN (LLA)": 67,
+                "JUNTOS POR EL CAMBIO": 46,
+                "UNION POR LA PATRIA": 39,
+                "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 14,
+                "MOVIMIENTO POPULAR NEUQUINO": 0
+            }
+        },
+        "total_votes": 166
+    }
+}
